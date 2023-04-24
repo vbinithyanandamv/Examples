@@ -1,0 +1,25 @@
+{
+    "sections":["Finanicials","Variance","Others"],
+    "Finanicials":[{
+         "reportName": "walmart",
+         "description": "description",
+         "image": "",
+         "csvURL": "",
+         "jsonURL": ""
+
+    }],
+    "Variance":[{
+        "reportName": "walmart",
+        "description": "description",
+        "image": "",
+        "csvURL": "",
+        "jsonURL": ""
+   }],
+   "others":[{
+        "reportName": "walmart",
+        "description": "description",
+        "image": "",
+        "csvURL": "",
+        "jsonURL": ""
+    }]  
+}
