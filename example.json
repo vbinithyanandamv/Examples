@@ -2,7 +2,7 @@
     "sections":["Finanicials","Variance","Others"],
     "Finanicials":[{
          "reportName": "walmart",
-         "description": "description",
+         "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
          "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
          "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.csv",
          "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart_config.json"
@@ -10,14 +10,14 @@
     }],
     "Variance":[{
         "reportName": "Regional profitability analysis",
-        "description": "description",
+        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.png",
         "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.csv",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/Regional_profitability_analysis.json"
    }],
    "others":[{
         "reportName": "Sales Dashboard",
-        "description": "description",
+        "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
         "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
