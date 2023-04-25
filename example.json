@@ -15,7 +15,7 @@
         "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.csv",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/Regional_profitability_analysis.json"
    }],
-   "others":[{
+   "Others":[{
         "reportName": "Sales Dashboard",
         "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
