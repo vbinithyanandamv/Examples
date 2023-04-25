@@ -3,23 +3,23 @@
     "Finanicials":[{
          "reportName": "walmart",
          "description": "description",
-         "image": "",
-         "csvURL": "",
-         "jsonURL": ""
+         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
+         "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.csv",
+         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart_config.json"
 
     }],
     "Variance":[{
-        "reportName": "walmart",
+        "reportName": "Regional profitability analysis",
         "description": "description",
-        "image": "",
-        "csvURL": "",
-        "jsonURL": ""
+        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.png",
+        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.csv",
+        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/Regional_profitability_analysis.json"
    }],
    "others":[{
-        "reportName": "walmart",
+        "reportName": "Sales Dashboard",
         "description": "description",
-        "image": "",
-        "csvURL": "",
-        "jsonURL": ""
+        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
+        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
     }]  
 }
