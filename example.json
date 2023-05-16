@@ -1,25 +1,40 @@
 {
-    "sections":["Finanicials","Variance","Others"],
-    "Finanicials":[{
-         "reportName": "walmart",
-         "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
-         "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.csv",
-         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart_config.json"
-
-    }],
-    "Variance":[{
-        "reportName": "Regional profitability analysis",
-        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/Regional_profitability_analysis.json"
-   }],
-   "Others":[{
-        "reportName": "Sales Dashboard",
-        "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
-    }]  
+    "sections":["Single Page Dashboard"],
+    "Single Page Dashboard":[
+        {
+            "reportName": "Sales Performance Dashboard",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Sales%20Performance%20Dashboard/Sales_Performance_My_Org_config.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Sales%20Performance%20Dashboard/Sales_Performance_My_Org.csv"
+        },
+        {
+            "reportName": "Sales Dashboard",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Sales%20Dashboard/Dashboard_My_Org_right_visual.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Sales%20Dashboard/Dashboard_My_Org_right_visual_config.json"
+        },
+        {
+            "reportName": "Regional Sales Report",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Regional%20Sales%20Report/SalesByRegion_My_Org_left_Visual.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Regional%20Sales%20Report/SalesByRegion_My_Org_left_visual_config.json"
+        },
+        {
+            "reportName": "Demo Variance Analysis",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Demo%20Variance%20Analysis/single_income_variance_analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Demo%20Variance%20Analysis/single_income_variance_analysis_config.json"
+        },
+        {
+            "reportName": "Demo Trend",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Demo%20Trend/Analysis_My_Org.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/SinglePageDashboard/Demo%20Trend/Analysis_My_Org_config.json"
+        }
+    ]  
 }
