@@ -12,6 +12,90 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart_config.json"
+        },
+        {
+            "reportName": "walmart_Bs",
+            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_BS.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_BS_config.json"
+        },
+        {
+            "reportName": "walmart_CF",
+            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_CF.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_CF_config.json"
+        },
+        {
+            "reportName": "walmart_Five Year",
+            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_Five%20year.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_Five%20year_config.json"
+        },
+        {
+            "reportName": "walmart_IS",
+            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_IS.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_IS_config.json"
+        },
+        {
+            "reportName": "GE Assumptions",
+            "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/Ge_assumptions.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/Ge_assumptions_config.json"
+        },
+        {
+            "reportName": "GE Non-Gap",
+            "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/Ge_Non-Gap.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/Ge_Non-Gap.json"
+        },
+        {
+            "reportName": "Nike Balance Sheet",
+            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-balance%20sheet.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-Balance%20sheet.json"
+        },
+        {
+            "reportName": " Nike cash flow",
+            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+            "csvURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Nike/Nike-cash%20flow.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-cash%20flow%20.json"
+        },
+        {
+            "reportName": "Nike Income statement",
+            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-income%20statement.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-income%20statement.json"
+        },
+        {
+            "reportName": "Nike Share holder",
+            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-income%20statement.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike-Shareholder.json"
+        },
+        {
+            "reportName": "Chevron Balance sheet",
+            "description": "Create financial statements by leveraging Inforiver's intelligent and automated number formatting capability.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron-Balance%20sheet.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron-Balance%20sheet.json"
+        },
+        {
+            "reportName": "Chevron Cash flow",
+            "description": "Create financial statements by leveraging Inforiver's intelligent and automated number formatting capability.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron-cash%20flow.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron-csah%20flow.json"
+        },
+        {
+            "reportName": "Chevron Income statement",
+            "description": "Create financial statements by leveraging Inforiver's intelligent and automated number formatting capability.",
+            "csvURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Chevron/Chevron-Income%20statement.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Chevron/Chevron-Income%20statement.json"
+        },
+        {
+            "reportName": "Apple Income statement",
+            "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+            "csvURL": "",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple-%20income%20statement.json"
         }
     ],
     "Variance": [
@@ -30,6 +114,26 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
+        }
+    ],
+    " Single Page Dashboard": [
+        {
+            "reportName": "Income statement analysis",
+            "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Income%20statement%20analysis%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Income%20statement%20analysis.json"
+        },
+        {
+            "reportName": "Single page variance analysis",
+            "description": "Utilize a variety of bullet charts such as IBCS Bullet, Conditional Bar, Comparative Bullet, Stacked and Percentage Stacked Bars.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis.json"
+        },
+        {
+            "reportName": "Single Page sales performance analysis",
+            "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance.json"
         }
     ]
 }
