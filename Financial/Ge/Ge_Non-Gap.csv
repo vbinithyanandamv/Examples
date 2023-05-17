@@ -1,0 +1,226 @@
+Index,Description,Group 1,Value Column Name,Value
+"12","Aviation (GAAP)","Revenues","Revenues_2020","22042"
+"12","Aviation (GAAP)","Revenues","Revenues_2019","32875"
+"12","Aviation (GAAP)","Revenues","Revenues_V%","-0.33"
+"12","Aviation (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","1229"
+"12","Aviation (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","6812"
+"12","Aviation (GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","-0.82"
+"12","Aviation (GAAP)","Profit Margin","Profit Margin_2020","0.056"
+"12","Aviation (GAAP)","Profit Margin","Profit Margin_2019","0.207"
+"12","Aviation (GAAP)","Profit Margin","Profit Margin_V","-15.1"
+"16","Aviation organic (Non-GAAP)","Revenues","Revenues_2020","22032"
+"16","Aviation organic (Non-GAAP)","Revenues","Revenues_2019","32506"
+"16","Aviation organic (Non-GAAP)","Revenues","Revenues_V%","-0.32"
+"16","Aviation organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","1237"
+"16","Aviation organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","6814"
+"16","Aviation organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","-0.82"
+"16","Aviation organic (Non-GAAP)","Profit Margin","Profit Margin_2020","0.056"
+"16","Aviation organic (Non-GAAP)","Profit Margin","Profit Margin_2019","0.21"
+"16","Aviation organic (Non-GAAP)","Profit Margin","Profit Margin_V","-15.4"
+"17","Healthcare (GAAP)","Revenues","Revenues_2020","18009"
+"17","Healthcare (GAAP)","Revenues","Revenues_2019","19942"
+"17","Healthcare (GAAP)","Revenues","Revenues_V%","-0.1"
+"17","Healthcare (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","3060"
+"17","Healthcare (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","3737"
+"17","Healthcare (GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","-0.18"
+"17","Healthcare (GAAP)","Profit Margin","Profit Margin_2020","0.17"
+"17","Healthcare (GAAP)","Profit Margin","Profit Margin_2019","0.187"
+"17","Healthcare (GAAP)","Profit Margin","Profit Margin_V","-1.7"
+"21","Healthcare organic (Non-GAAP)","Revenues","Revenues_2020","17979"
+"21","Healthcare organic (Non-GAAP)","Revenues","Revenues_2019","17318"
+"21","Healthcare organic (Non-GAAP)","Revenues","Revenues_V%","0.04"
+"21","Healthcare organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","3081"
+"21","Healthcare organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","2630"
+"21","Healthcare organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","0.17"
+"21","Healthcare organic (Non-GAAP)","Profit Margin","Profit Margin_2020","0.171"
+"21","Healthcare organic (Non-GAAP)","Profit Margin","Profit Margin_2019","0.152"
+"21","Healthcare organic (Non-GAAP)","Profit Margin","Profit Margin_V","1.9"
+"5","Power organic (Non-GAAP)","Revenues","Revenues_2020","17619"
+"5","Power organic (Non-GAAP)","Revenues","Revenues_2019","18502"
+"5","Power organic (Non-GAAP)","Revenues","Revenues_V%","-0.05"
+"5","Power organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","266"
+"5","Power organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","287"
+"5","Power organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","-0.07"
+"5","Power organic (Non-GAAP)","Profit Margin","Profit Margin_2020","0.015"
+"5","Power organic (Non-GAAP)","Profit Margin","Profit Margin_2019","0.016"
+"5","Power organic (Non-GAAP)","Profit Margin","Profit Margin_V","-0.1"
+"1","Power (GAAP)","Revenues","Revenues_2020","17589"
+"1","Power (GAAP)","Revenues","Revenues_2019","18625"
+"1","Power (GAAP)","Revenues","Revenues_V%","-0.06"
+"1","Power (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","274"
+"1","Power (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","291"
+"1","Power (GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","-0.06"
+"1","Power (GAAP)","Profit Margin","Profit Margin_2020","0.016"
+"1","Power (GAAP)","Profit Margin","Profit Margin_2019","0.016"
+"1","Power (GAAP)","Profit Margin","Profit Margin_V","0"
+"25","organic (Non-GAAP)","Revenues","Revenues_2020","17140"
+"25","organic (Non-GAAP)","Revenues","Revenues_2019","16557"
+"25","organic (Non-GAAP)","Revenues","Revenues_V%","0.04"
+"25","organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","2701"
+"25","organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","2319"
+"25","organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","0.16"
+"25","organic (Non-GAAP)","Profit Margin","Profit Margin_2020","0.158"
+"25","organic (Non-GAAP)","Profit Margin","Profit Margin_2019","0.14"
+"25","organic (Non-GAAP)","Profit Margin","Profit Margin_V","1.8"
+"11","organic (Non-GAAP)","Revenues","Revenues_2020","15824"
+"11","organic (Non-GAAP)","Revenues","Revenues_2019","15243"
+"11","organic (Non-GAAP)","Revenues","Revenues_V%","0.04"
+"11","organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","-731"
+"11","organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","-781"
+"11","organic (Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","0.06"
+"11","organic (Non-GAAP)","Profit Margin","Profit Margin_2020","-0.046"
+"11","organic (Non-GAAP)","Profit Margin","Profit Margin_2019","-0.051"
+"11","organic (Non-GAAP)","Profit Margin","Profit Margin_V","0.5"
+"6","Renewable Energy (GAAP)","Revenues","Revenues_2020","15666"
+"6","Renewable Energy (GAAP)","Revenues","Revenues_2019","15337"
+"6","Renewable Energy (GAAP)","Revenues","Revenues_V%","0.02"
+"6","Renewable Energy (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","-715"
+"6","Renewable Energy (GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","-791"
+"6","Renewable Energy (GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%","0.1"
+"6","Renewable Energy (GAAP)","Profit Margin","Profit Margin_2020","-0.046"
+"6","Renewable Energy (GAAP)","Profit Margin","Profit Margin_2019","-0.052"
+"6","Renewable Energy (GAAP)","Profit Margin","Profit Margin_V","0.6"
+"23","(Non-GAAP)","Revenues","Revenues_2020","839"
+"23","(Non-GAAP)","Revenues","Revenues_2019","762"
+"23","(Non-GAAP)","Revenues","Revenues_V%",
+"23","(Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2020","380"
+"23","(Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_2019","311"
+"23","(Non-GAAP)","Segment Profit (Loss)","Segment profit (loss)_V%",
+"23","(Non-GAAP)","Profit Margin","Profit Margin_2020",
+"23","(Non-GAAP)","Profit Margin","Profit Margin_2019",
+"23","(Non-GAAP)","Profit Margin","Profit Margin_V",
+"18","Less: acquisitions","Revenues","Revenues_2020","55"
+"18","Less: acquisitions","Revenues","Revenues_2019","21"
+"18","Less: acquisitions","Revenues","Revenues_V%",
+"18","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2020","-13"
+"18","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2019","-4"
+"18","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"18","Less: acquisitions","Profit Margin","Profit Margin_2020",
+"18","Less: acquisitions","Profit Margin","Profit Margin_2019",
+"18","Less: acquisitions","Profit Margin","Profit Margin_V",
+"19","Less: business dispositions","Revenues","Revenues_2020","21"
+"19","Less: business dispositions","Revenues","Revenues_2019","2603"
+"19","Less: business dispositions","Revenues","Revenues_V%",
+"19","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2020","-2"
+"19","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2019","1111"
+"19","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"19","Less: business dispositions","Profit Margin","Profit Margin_2020",
+"19","Less: business dispositions","Profit Margin","Profit Margin_2019",
+"19","Less: business dispositions","Profit Margin","Profit Margin_V",
+"2","Less: acquisitions","Revenues","Revenues_2020","19"
+"2","Less: acquisitions","Revenues","Revenues_2019","19"
+"2","Less: acquisitions","Revenues","Revenues_V%",
+"2","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2020","-3"
+"2","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2019","-2"
+"2","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"2","Less: acquisitions","Profit Margin","Profit Margin_2020",
+"2","Less: acquisitions","Profit Margin","Profit Margin_2019",
+"2","Less: acquisitions","Profit Margin","Profit Margin_V",
+"3","Less: business dispositions","Revenues","Revenues_2020","15"
+"3","Less: business dispositions","Revenues","Revenues_2019","104"
+"3","Less: business dispositions","Revenues","Revenues_V%",
+"3","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2020","2"
+"3","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2019","7"
+"3","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"3","Less: business dispositions","Profit Margin","Profit Margin_2020",
+"3","Less: business dispositions","Profit Margin","Profit Margin_2019",
+"3","Less: business dispositions","Profit Margin","Profit Margin_V",
+"14","Less: business dispositions","Revenues","Revenues_2020","13"
+"14","Less: business dispositions","Revenues","Revenues_2019","369"
+"14","Less: business dispositions","Revenues","Revenues_V%",
+"14","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2020","-2"
+"14","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2019","-2"
+"14","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"14","Less: business dispositions","Profit Margin","Profit Margin_2020",
+"14","Less: business dispositions","Profit Margin","Profit Margin_2019",
+"14","Less: business dispositions","Profit Margin","Profit Margin_V",
+"8","Less: business dispositions","Revenues","Revenues_2020","8"
+"8","Less: business dispositions","Revenues","Revenues_2019","94"
+"8","Less: business dispositions","Revenues","Revenues_V%",
+"8","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2020","0"
+"8","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_2019","-11"
+"8","Less: business dispositions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"8","Less: business dispositions","Profit Margin","Profit Margin_2020",
+"8","Less: business dispositions","Profit Margin","Profit Margin_2019",
+"8","Less: business dispositions","Profit Margin","Profit Margin_V",
+"7","Less: acquisitions","Revenues","Revenues_2020","0"
+"7","Less: acquisitions","Revenues","Revenues_2019","0"
+"7","Less: acquisitions","Revenues","Revenues_V%",
+"7","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2020","0"
+"7","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2019","0"
+"7","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"7","Less: acquisitions","Profit Margin","Profit Margin_2020",
+"7","Less: acquisitions","Profit Margin","Profit Margin_2019",
+"7","Less: acquisitions","Profit Margin","Profit Margin_V",
+"13","Less: acquisitions","Revenues","Revenues_2020","0"
+"13","Less: acquisitions","Revenues","Revenues_2019","0"
+"13","Less: acquisitions","Revenues","Revenues_V%",
+"13","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2020","0"
+"13","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_2019","0"
+"13","Less: acquisitions","Segment Profit (Loss)","Segment profit (loss)_V%",
+"13","Less: acquisitions","Profit Margin","Profit Margin_2020",
+"13","Less: acquisitions","Profit Margin","Profit Margin_2019",
+"13","Less: acquisitions","Profit Margin","Profit Margin_V",
+"10","Renewable Energy","Revenues","Revenues_2020",
+"10","Renewable Energy","Revenues","Revenues_2019",
+"10","Renewable Energy","Revenues","Revenues_V%",
+"10","Renewable Energy","Segment Profit (Loss)","Segment profit (loss)_2020",
+"10","Renewable Energy","Segment Profit (Loss)","Segment profit (loss)_2019",
+"10","Renewable Energy","Segment Profit (Loss)","Segment profit (loss)_V%",
+"10","Renewable Energy","Profit Margin","Profit Margin_2020",
+"10","Renewable Energy","Profit Margin","Profit Margin_2019",
+"10","Renewable Energy","Profit Margin","Profit Margin_V",
+"22","Less: BioPharma organic","Revenues","Revenues_2020",
+"22","Less: BioPharma organic","Revenues","Revenues_2019",
+"22","Less: BioPharma organic","Revenues","Revenues_V%",
+"22","Less: BioPharma organic","Segment Profit (Loss)","Segment profit (loss)_2020",
+"22","Less: BioPharma organic","Segment Profit (Loss)","Segment profit (loss)_2019",
+"22","Less: BioPharma organic","Segment Profit (Loss)","Segment profit (loss)_V%",
+"22","Less: BioPharma organic","Profit Margin","Profit Margin_2020",
+"22","Less: BioPharma organic","Profit Margin","Profit Margin_2019",
+"22","Less: BioPharma organic","Profit Margin","Profit Margin_V",
+"24","Healthcare excluding BioPharma","Revenues","Revenues_2020",
+"24","Healthcare excluding BioPharma","Revenues","Revenues_2019",
+"24","Healthcare excluding BioPharma","Revenues","Revenues_V%",
+"24","Healthcare excluding BioPharma","Segment Profit (Loss)","Segment profit (loss)_2020",
+"24","Healthcare excluding BioPharma","Segment Profit (Loss)","Segment profit (loss)_2019",
+"24","Healthcare excluding BioPharma","Segment Profit (Loss)","Segment profit (loss)_V%",
+"24","Healthcare excluding BioPharma","Profit Margin","Profit Margin_2020",
+"24","Healthcare excluding BioPharma","Profit Margin","Profit Margin_2019",
+"24","Healthcare excluding BioPharma","Profit Margin","Profit Margin_V",
+"15","Less: foreign currency effect","Revenues","Revenues_2020","-3"
+"15","Less: foreign currency effect","Revenues","Revenues_2019","0"
+"15","Less: foreign currency effect","Revenues","Revenues_V%",
+"15","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2020","-5"
+"15","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2019","0"
+"15","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_V%",
+"15","Less: foreign currency effect","Profit Margin","Profit Margin_2020",
+"15","Less: foreign currency effect","Profit Margin","Profit Margin_2019",
+"15","Less: foreign currency effect","Profit Margin","Profit Margin_V",
+"20","Less: foreign currency effect","Revenues","Revenues_2020","-46"
+"20","Less: foreign currency effect","Revenues","Revenues_2019","0"
+"20","Less: foreign currency effect","Revenues","Revenues_V%",
+"20","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2020","-6"
+"20","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2019","0"
+"20","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_V%",
+"20","Less: foreign currency effect","Profit Margin","Profit Margin_2020",
+"20","Less: foreign currency effect","Profit Margin","Profit Margin_2019",
+"20","Less: foreign currency effect","Profit Margin","Profit Margin_V",
+"4","Less: foreign currency effect","Revenues","Revenues_2020","-64"
+"4","Less: foreign currency effect","Revenues","Revenues_2019","0"
+"4","Less: foreign currency effect","Revenues","Revenues_V%",
+"4","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2020","10"
+"4","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2019","0"
+"4","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_V%",
+"4","Less: foreign currency effect","Profit Margin","Profit Margin_2020",
+"4","Less: foreign currency effect","Profit Margin","Profit Margin_2019",
+"4","Less: foreign currency effect","Profit Margin","Profit Margin_V",
+"9","Less: foreign currency effect","Revenues","Revenues_2020","-167"
+"9","Less: foreign currency effect","Revenues","Revenues_2019","0"
+"9","Less: foreign currency effect","Revenues","Revenues_V%",
+"9","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2020","16"
+"9","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_2019","0"
+"9","Less: foreign currency effect","Segment Profit (Loss)","Segment profit (loss)_V%",
+"9","Less: foreign currency effect","Profit Margin","Profit Margin_2020",
+"9","Less: foreign currency effect","Profit Margin","Profit Margin_2019",
+"9","Less: foreign currency effect","Profit Margin","Profit Margin_V",

@@ -1,0 +1,191 @@
+Index,Description,Group 1,Group 2,Value Column Name,Value
+"1","GAAP net income / earnings per share","Three Months Ended","December 26, 2020","Col1","1781"
+"1","GAAP net income / earnings per share","Three Months Ended","December 26, 2020","Col2","1.45"
+"1","GAAP net income / earnings per share","Three Months Ended","September 26, 2020","Col3","390"
+"1","GAAP net income / earnings per share","Three Months Ended","September 26, 2020","Col4","0.32"
+"1","GAAP net income / earnings per share","Three Months Ended","December 28, 2019","Col5","170"
+"1","GAAP net income / earnings per share","Three Months Ended","December 28, 2019","Col6","0.15"
+"1","GAAP net income / earnings per share","Year Ended","December 26, 2020","Col7","2490"
+"1","GAAP net income / earnings per share","Year Ended","December 26, 2020","Col8","2.06"
+"1","GAAP net income / earnings per share","Year Ended","December 28, 2019","Col9","341"
+"1","GAAP net income / earnings per share","Year Ended","December 28, 2019","Col10","0.3"
+"10","Non-GAAP net income / earnings per share","Three Months Ended","December 26, 2020","Col1","636"
+"10","Non-GAAP net income / earnings per share","Three Months Ended","December 26, 2020","Col2","0.52"
+"10","Non-GAAP net income / earnings per share","Three Months Ended","September 26, 2020","Col3","501"
+"10","Non-GAAP net income / earnings per share","Three Months Ended","September 26, 2020","Col4","0.41"
+"10","Non-GAAP net income / earnings per share","Three Months Ended","December 28, 2019","Col5","383"
+"10","Non-GAAP net income / earnings per share","Three Months Ended","December 28, 2019","Col6","0.32"
+"10","Non-GAAP net income / earnings per share","Year Ended","December 26, 2020","Col7","1575"
+"10","Non-GAAP net income / earnings per share","Year Ended","December 26, 2020","Col8","1.29"
+"10","Non-GAAP net income / earnings per share","Year Ended","December 28, 2019","Col9","756"
+"10","Non-GAAP net income / earnings per share","Year Ended","December 28, 2019","Col10","0.64"
+"4","Stock-based compensation","Three Months Ended","December 26, 2020","Col1","79"
+"4","Stock-based compensation","Three Months Ended","December 26, 2020","Col2","0.06"
+"4","Stock-based compensation","Three Months Ended","September 26, 2020","Col3","76"
+"4","Stock-based compensation","Three Months Ended","September 26, 2020","Col4","0.06"
+"4","Stock-based compensation","Three Months Ended","December 28, 2019","Col5","57"
+"4","Stock-based compensation","Three Months Ended","December 28, 2019","Col6","0.05"
+"4","Stock-based compensation","Year Ended","December 26, 2020","Col7","274"
+"4","Stock-based compensation","Year Ended","December 26, 2020","Col8","0.22"
+"4","Stock-based compensation","Year Ended","December 28, 2019","Col9","197"
+"4","Stock-based compensation","Year Ended","December 28, 2019","Col10","0.16"
+"9","Income tax provision (benefit)","Three Months Ended","December 26, 2020","Col1","50"
+"9","Income tax provision (benefit)","Three Months Ended","December 26, 2020","Col2","0.05"
+"9","Income tax provision (benefit)","Three Months Ended","September 26, 2020","Col3","-4"
+"9","Income tax provision (benefit)","Three Months Ended","September 26, 2020","Col4","0"
+"9","Income tax provision (benefit)","Three Months Ended","December 28, 2019","Col5","24"
+"9","Income tax provision (benefit)","Three Months Ended","December 28, 2019","Col6","0.02"
+"9","Income tax provision (benefit)","Year Ended","December 26, 2020","Col7","43"
+"9","Income tax provision (benefit)","Year Ended","December 26, 2020","Col8","0.03"
+"9","Income tax provision (benefit)","Year Ended","December 28, 2019","Col9","8"
+"9","Income tax provision (benefit)","Year Ended","December 28, 2019","Col10","0"
+"2","Loss on debt redemption/conversion","Three Months Ended","December 26, 2020","Col1","16"
+"2","Loss on debt redemption/conversion","Three Months Ended","December 26, 2020","Col2","0.01"
+"2","Loss on debt redemption/conversion","Three Months Ended","September 26, 2020","Col3","38"
+"2","Loss on debt redemption/conversion","Three Months Ended","September 26, 2020","Col4","0.03"
+"2","Loss on debt redemption/conversion","Three Months Ended","December 28, 2019","Col5","128"
+"2","Loss on debt redemption/conversion","Three Months Ended","December 28, 2019","Col6","0.1"
+"2","Loss on debt redemption/conversion","Year Ended","December 26, 2020","Col7","54"
+"2","Loss on debt redemption/conversion","Year Ended","December 26, 2020","Col8","0.04"
+"2","Loss on debt redemption/conversion","Year Ended","December 28, 2019","Col9","176"
+"2","Loss on debt redemption/conversion","Year Ended","December 28, 2019","Col10","0.15"
+"7","Acquisition-related costs","Three Months Ended","December 26, 2020","Col1","14"
+"7","Acquisition-related costs","Three Months Ended","December 26, 2020","Col2","0.01"
+"7","Acquisition-related costs","Three Months Ended","September 26, 2020","Col3","0"
+"7","Acquisition-related costs","Three Months Ended","September 26, 2020","Col4","0"
+"7","Acquisition-related costs","Three Months Ended","December 28, 2019","Col5","0"
+"7","Acquisition-related costs","Three Months Ended","December 28, 2019","Col6","0"
+"7","Acquisition-related costs","Year Ended","December 26, 2020","Col7","14"
+"7","Acquisition-related costs","Year Ended","December 26, 2020","Col8","0.01"
+"7","Acquisition-related costs","Year Ended","December 28, 2019","Col9","0"
+"7","Acquisition-related costs","Year Ended","December 28, 2019","Col10","0"
+"3","Non-cash interest expense related to convertible debt","Three Months Ended","December 26, 2020","Col1","0"
+"3","Non-cash interest expense related to convertible debt","Three Months Ended","December 26, 2020","Col2","0"
+"3","Non-cash interest expense related to convertible debt","Three Months Ended","September 26, 2020","Col3","2"
+"3","Non-cash interest expense related to convertible debt","Three Months Ended","September 26, 2020","Col4","0"
+"3","Non-cash interest expense related to convertible debt","Three Months Ended","December 28, 2019","Col5","4"
+"3","Non-cash interest expense related to convertible debt","Three Months Ended","December 28, 2019","Col6","0"
+"3","Non-cash interest expense related to convertible debt","Year Ended","December 26, 2020","Col7","6"
+"3","Non-cash interest expense related to convertible debt","Year Ended","December 26, 2020","Col8","0"
+"3","Non-cash interest expense related to convertible debt","Year Ended","December 28, 2019","Col9","22"
+"3","Non-cash interest expense related to convertible debt","Year Ended","December 28, 2019","Col10","0.02"
+"6","Loss contingency on legal matter","Three Months Ended","December 26, 2020","Col1","0"
+"6","Loss contingency on legal matter","Three Months Ended","December 26, 2020","Col2","0"
+"6","Loss contingency on legal matter","Three Months Ended","September 26, 2020","Col3","0"
+"6","Loss contingency on legal matter","Three Months Ended","September 26, 2020","Col4","0"
+"6","Loss contingency on legal matter","Three Months Ended","December 28, 2019","Col5","0"
+"6","Loss contingency on legal matter","Three Months Ended","December 28, 2019","Col6","0"
+"6","Loss contingency on legal matter","Year Ended","December 26, 2020","Col7","0"
+"6","Loss contingency on legal matter","Year Ended","December 26, 2020","Col8","0"
+"6","Loss contingency on legal matter","Year Ended","December 28, 2019","Col9","12"
+"6","Loss contingency on legal matter","Year Ended","December 28, 2019","Col10","0.01"
+"(Blank)","","Three Months Ended","December 26, 2020","Col1",
+"(Blank)","","Three Months Ended","December 26, 2020","Col2",
+"(Blank)","","Three Months Ended","September 26, 2020","Col3",
+"(Blank)","","Three Months Ended","September 26, 2020","Col4",
+"(Blank)","","Three Months Ended","December 28, 2019","Col5",
+"(Blank)","","Three Months Ended","December 28, 2019","Col6",
+"(Blank)","","Year Ended","December 26, 2020","Col7",
+"(Blank)","","Year Ended","December 26, 2020","Col8",
+"(Blank)","","Year Ended","December 28, 2019","Col9",
+"(Blank)","","Year Ended","December 28, 2019","Col10",
+"11","","Three Months Ended","December 26, 2020","Col1",
+"11","","Three Months Ended","December 26, 2020","Col2",
+"11","","Three Months Ended","September 26, 2020","Col3",
+"11","","Three Months Ended","September 26, 2020","Col4",
+"11","","Three Months Ended","December 28, 2019","Col5",
+"11","","Three Months Ended","December 28, 2019","Col6",
+"11","","Year Ended","December 26, 2020","Col7",
+"11","","Year Ended","December 26, 2020","Col8",
+"11","","Year Ended","December 28, 2019","Col9",
+"11","","Year Ended","December 28, 2019","Col10",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Three Months Ended","December 26, 2020","Col1",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Three Months Ended","December 26, 2020","Col2",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Three Months Ended","September 26, 2020","Col3",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Three Months Ended","September 26, 2020","Col4",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Three Months Ended","December 28, 2019","Col5",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Three Months Ended","December 28, 2019","Col6",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Year Ended","December 26, 2020","Col7",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Year Ended","December 26, 2020","Col8",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Year Ended","December 28, 2019","Col9",
+"12","Shares used and net income adjustment in
+earnings per share calculation","Year Ended","December 28, 2019","Col10",
+"13","Shares used in per share calculation (GAAP)","Three Months Ended","December 26, 2020","Col1",
+"13","Shares used in per share calculation (GAAP)","Three Months Ended","December 26, 2020","Col2","1226"
+"13","Shares used in per share calculation (GAAP)","Three Months Ended","September 26, 2020","Col3",
+"13","Shares used in per share calculation (GAAP)","Three Months Ended","September 26, 2020","Col4","1215"
+"13","Shares used in per share calculation (GAAP)","Three Months Ended","December 28, 2019","Col5",
+"13","Shares used in per share calculation (GAAP)","Three Months Ended","December 28, 2019","Col6","1188"
+"13","Shares used in per share calculation (GAAP)","Year Ended","December 26, 2020","Col7",
+"13","Shares used in per share calculation (GAAP)","Year Ended","December 26, 2020","Col8","1207"
+"13","Shares used in per share calculation (GAAP)","Year Ended","December 28, 2019","Col9",
+"13","Shares used in per share calculation (GAAP)","Year Ended","December 28, 2019","Col10","1120"
+"14","Interest expense add-back to GAAP net income","Three Months Ended","December 26, 2020","Col1",
+"14","Interest expense add-back to GAAP net income","Three Months Ended","December 26, 2020","Col2","0"
+"14","Interest expense add-back to GAAP net income","Three Months Ended","September 26, 2020","Col3",
+"14","Interest expense add-back to GAAP net income","Three Months Ended","September 26, 2020","Col4","1"
+"14","Interest expense add-back to GAAP net income","Three Months Ended","December 28, 2019","Col5",
+"14","Interest expense add-back to GAAP net income","Three Months Ended","December 28, 2019","Col6","4"
+"14","Interest expense add-back to GAAP net income","Year Ended","December 26, 2020","Col7",
+"14","Interest expense add-back to GAAP net income","Year Ended","December 26, 2020","Col8","1"
+"14","Interest expense add-back to GAAP net income","Year Ended","December 28, 2019","Col9",
+"14","Interest expense add-back to GAAP net income","Year Ended","December 28, 2019","Col10","0"
+"15","Shares used in per share calculation (Non-GAAP)","Three Months Ended","December 26, 2020","Col1",
+"15","Shares used in per share calculation (Non-GAAP)","Three Months Ended","December 26, 2020","Col2","1232"
+"15","Shares used in per share calculation (Non-GAAP)","Three Months Ended","September 26, 2020","Col3",
+"15","Shares used in per share calculation (Non-GAAP)","Three Months Ended","September 26, 2020","Col4","1230"
+"15","Shares used in per share calculation (Non-GAAP)","Three Months Ended","December 28, 2019","Col5",
+"15","Shares used in per share calculation (Non-GAAP)","Three Months Ended","December 28, 2019","Col6","1216"
+"15","Shares used in per share calculation (Non-GAAP)","Year Ended","December 26, 2020","Col7",
+"15","Shares used in per share calculation (Non-GAAP)","Year Ended","December 26, 2020","Col8","1228"
+"15","Shares used in per share calculation (Non-GAAP)","Year Ended","December 28, 2019","Col9",
+"15","Shares used in per share calculation (Non-GAAP)","Year Ended","December 28, 2019","Col10","1209"
+"16","Interest expense add-back to Non-GAAP net income","Three Months Ended","December 26, 2020","Col1",
+"16","Interest expense add-back to Non-GAAP net income","Three Months Ended","December 26, 2020","Col2","0"
+"16","Interest expense add-back to Non-GAAP net income","Three Months Ended","September 26, 2020","Col3",
+"16","Interest expense add-back to Non-GAAP net income","Three Months Ended","September 26, 2020","Col4","1"
+"16","Interest expense add-back to Non-GAAP net income","Three Months Ended","December 28, 2019","Col5",
+"16","Interest expense add-back to Non-GAAP net income","Three Months Ended","December 28, 2019","Col6","2"
+"16","Interest expense add-back to Non-GAAP net income","Year Ended","December 26, 2020","Col7",
+"16","Interest expense add-back to Non-GAAP net income","Year Ended","December 26, 2020","Col8","4"
+"16","Interest expense add-back to Non-GAAP net income","Year Ended","December 28, 2019","Col9",
+"16","Interest expense add-back to Non-GAAP net income","Year Ended","December 28, 2019","Col10","16"
+"17","","Three Months Ended","December 26, 2020","Col1",
+"17","","Three Months Ended","December 26, 2020","Col2",
+"17","","Three Months Ended","September 26, 2020","Col3",
+"17","","Three Months Ended","September 26, 2020","Col4",
+"17","","Three Months Ended","December 28, 2019","Col5",
+"17","","Three Months Ended","December 28, 2019","Col6",
+"17","","Year Ended","December 26, 2020","Col7",
+"17","","Year Ended","December 26, 2020","Col8",
+"17","","Year Ended","December 28, 2019","Col9",
+"17","","Year Ended","December 28, 2019","Col10",
+"5","Equity income in investee","Three Months Ended","December 26, 2020","Col1","-3"
+"5","Equity income in investee","Three Months Ended","December 26, 2020","Col2","0"
+"5","Equity income in investee","Three Months Ended","September 26, 2020","Col3","-1"
+"5","Equity income in investee","Three Months Ended","September 26, 2020","Col4","0"
+"5","Equity income in investee","Three Months Ended","December 28, 2019","Col5","0"
+"5","Equity income in investee","Three Months Ended","December 28, 2019","Col6","0"
+"5","Equity income in investee","Year Ended","December 26, 2020","Col7","-5"
+"5","Equity income in investee","Year Ended","December 26, 2020","Col8","0"
+"5","Equity income in investee","Year Ended","December 28, 2019","Col9","0"
+"5","Equity income in investee","Year Ended","December 28, 2019","Col10","0"
+"8","Release of valuation allowance on deferred tax assets","Three Months Ended","December 26, 2020","Col1","-1301"
+"8","Release of valuation allowance on deferred tax assets","Three Months Ended","December 26, 2020","Col2","-1.06"
+"8","Release of valuation allowance on deferred tax assets","Three Months Ended","September 26, 2020","Col3","0"
+"8","Release of valuation allowance on deferred tax assets","Three Months Ended","September 26, 2020","Col4","0"
+"8","Release of valuation allowance on deferred tax assets","Three Months Ended","December 28, 2019","Col5","0"
+"8","Release of valuation allowance on deferred tax assets","Three Months Ended","December 28, 2019","Col6","0"
+"8","Release of valuation allowance on deferred tax assets","Year Ended","December 26, 2020","Col7","-1301"
+"8","Release of valuation allowance on deferred tax assets","Year Ended","December 26, 2020","Col8","-1.07"
+"8","Release of valuation allowance on deferred tax assets","Year Ended","December 28, 2019","Col9","0"
+"8","Release of valuation allowance on deferred tax assets","Year Ended","December 28, 2019","Col10","0"

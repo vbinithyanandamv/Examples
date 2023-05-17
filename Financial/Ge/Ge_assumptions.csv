@@ -1,0 +1,56 @@
+Description,Index,2020 assumption,2019 assumption,Hypothetical change in 2020 assumption,Value Column Name,Value
+"morbidity improvement","2","to 20 years","to 20 years","No morbidity improvement","Estimated increase to projected present value of future cash flows (pre-tax)","3400"
+"Long-term care 
+insurance mortality","6","Based on company 
+experience","Based on company 
+experience","Any change in termination 
+assumptions that reduce 
+total terminations by 10%","Estimated increase to projected present value of future cash flows (pre-tax)","1100"
+"Long-term care insurance morbidity","3","Based on company experience","Based on company experience","5% increase in dollar amount of paid claims","Estimated increase to projected present value of future cash flows (pre-tax)","1000"
+"Overall discount rate","11","5.7 %","5.74 %","25 basis point reduction","Estimated increase to projected present value of future cash flows (pre-tax)","900"
+"Long-term care insurance","1","1.25% per year over 12","1.25% per year over 12","25 basis point reduction","Estimated increase to projected present value of future cash flows (pre-tax)","600"
+"Long-term care insurance 
+future premium rate 
+increases","9","Varies by block based 
+on filing experience","Varies by block based 
+on filing experience","25% adverse change in 
+premium rate increase 
+success rate","Estimated increase to projected present value of future cash flows (pre-tax)","500"
+"Long-term care insurance 
+mortality improvement","4","0.5% per year for 10 
+years with annual 
+improvement graded to 
+0% over next 10 years","0.5% per year for 10 
+years with annual 
+improvement graded to 
+0% over next 10 years","1.0% per year for 10 
+years with annual 
+improvement graded to 
+0% over next 10 years","Estimated increase to projected present value of future cash flows (pre-tax)","400"
+"Life insurance mortality","14","Based on company 
+experience","Based on company 
+experience","5% increase in mortality","Estimated increase to projected present value of future cash flows (pre-tax)","300"
+"Reinvestment rate","12","2.70%; grading to a 
+long-term average 
+investment yield of 5.8%","3.05%; grading to a 
+long-term average 
+investment yield of 5.9%","25 basis point reduction; 
+grading to a long-term 
+average investment yield 
+of 5.8%","Estimated increase to projected present value of future cash flows (pre-tax)","100"
+"Structured settlement 
+annuity mortality","13","Based on company 
+experience","Based on company 
+experience","5% decrease in mortality","Estimated increase to projected present value of future cash flows (pre-tax)","100"
+"(Blank)","(Blank)","(Blank)","(Blank)","(Blank)","Estimated increase to projected present value of future cash flows (pre-tax)",
+"Long-term care 
+insurance benefit 
+exhaustion","8","Based on company 
+experience","Based on company 
+experience","(Blank)","Estimated increase to projected present value of future cash flows (pre-tax)",
+"Discount rate:","10","(Blank)","(Blank)","(Blank)","Estimated increase to projected present value of future cash flows (pre-tax)",
+"Long-term care
+insurance lapse rate","7","Varies by block, attained 
+age and benefit period; average 0.5 - 1.15%","Varies by block, attained 
+age and benefit period; average 0.5 - 1.15%","(Blank)","Estimated increase to projected present value of future cash flows (pre-tax)",
+"Total terminations:","5","(Blank)","(Blank)","(Blank)","Estimated increase to projected present value of future cash flows (pre-tax)",

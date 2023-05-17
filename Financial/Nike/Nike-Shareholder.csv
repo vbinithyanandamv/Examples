@@ -1,0 +1,241 @@
+Index,(In millions, except per share data),Group 1,Group 2,Value Column Name,Value
+"1","Balance at May 31, 2017","COMMON STOCK","CLASS A","CLASS A SHARES","329"
+"1","Balance at May 31, 2017","COMMON STOCK","CLASS A","CLASS A AMOUNT","0"
+"1","Balance at May 31, 2017","COMMON STOCK","CLASS B","CLASS B SHARES","1314"
+"1","Balance at May 31, 2017","COMMON STOCK","CLASS B","CLASS B AMOUNT","3"
+"1","Balance at May 31, 2017","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","5710"
+"1","Balance at May 31, 2017","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","-213"
+"1","Balance at May 31, 2017","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","6907"
+"1","Balance at May 31, 2017","Custom Group All","Custom Group All","TOTAL","12407"
+"10","Balance at May 31, 2018","COMMON STOCK","CLASS A","CLASS A SHARES","329"
+"10","Balance at May 31, 2018","COMMON STOCK","CLASS A","CLASS A AMOUNT","0"
+"10","Balance at May 31, 2018","COMMON STOCK","CLASS B","CLASS B SHARES","1272"
+"10","Balance at May 31, 2018","COMMON STOCK","CLASS B","CLASS B AMOUNT","3"
+"10","Balance at May 31, 2018","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","6384"
+"10","Balance at May 31, 2018","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","-92"
+"10","Balance at May 31, 2018","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","3517"
+"10","Balance at May 31, 2018","Custom Group All","Custom Group All","TOTAL","9812"
+"21","Balance at May 31, 2019","COMMON STOCK","CLASS A","CLASS A SHARES","315"
+"21","Balance at May 31, 2019","COMMON STOCK","CLASS A","CLASS A AMOUNT","0"
+"21","Balance at May 31, 2019","COMMON STOCK","CLASS B","CLASS B SHARES","1253"
+"21","Balance at May 31, 2019","COMMON STOCK","CLASS B","CLASS B AMOUNT","3"
+"21","Balance at May 31, 2019","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","7163"
+"21","Balance at May 31, 2019","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","231"
+"21","Balance at May 31, 2019","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","1643"
+"21","Balance at May 31, 2019","Custom Group All","Custom Group All","TOTAL","9040"
+"30","Balance at May 31, 2020","COMMON STOCK","CLASS A","CLASS A SHARES","315"
+"30","Balance at May 31, 2020","COMMON STOCK","CLASS A","CLASS A AMOUNT","0"
+"30","Balance at May 31, 2020","COMMON STOCK","CLASS B","CLASS B SHARES","1243"
+"30","Balance at May 31, 2020","COMMON STOCK","CLASS B","CLASS B AMOUNT","3"
+"30","Balance at May 31, 2020","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","8299"
+"30","Balance at May 31, 2020","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","-56"
+"30","Balance at May 31, 2020","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-191"
+"30","Balance at May 31, 2020","Custom Group All","Custom Group All","TOTAL","8055"
+"2","Stock options exercised","COMMON STOCK","CLASS A","CLASS A SHARES",
+"2","Stock options exercised","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"2","Stock options exercised","COMMON STOCK","CLASS B","CLASS B SHARES","24"
+"2","Stock options exercised","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"2","Stock options exercised","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","600"
+"2","Stock options exercised","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"2","Stock options exercised","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"2","Stock options exercised","Custom Group All","Custom Group All","TOTAL","600"
+"3","Repurchase of Class B Common Stock","COMMON STOCK","CLASS A","CLASS A SHARES",
+"3","Repurchase of Class B Common Stock","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"3","Repurchase of Class B Common Stock","COMMON STOCK","CLASS B","CLASS B SHARES","-70"
+"3","Repurchase of Class B Common Stock","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"3","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","-254"
+"3","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"3","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-4013"
+"3","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","TOTAL","-4267"
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-1265"
+"4","Dividends on common stock ($0.78 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","TOTAL","-1265"
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS A","CLASS A SHARES",
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS B","CLASS B SHARES","4"
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","110"
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-28"
+"5","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","TOTAL","82"
+"6","Stock-based compensation","COMMON STOCK","CLASS A","CLASS A SHARES",
+"6","Stock-based compensation","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"6","Stock-based compensation","COMMON STOCK","CLASS B","CLASS B SHARES",
+"6","Stock-based compensation","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"6","Stock-based compensation","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","218"
+"6","Stock-based compensation","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"6","Stock-based compensation","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"6","Stock-based compensation","Custom Group All","Custom Group All","TOTAL","218"
+"7","Net income","COMMON STOCK","CLASS A","CLASS A SHARES",
+"7","Net income","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"7","Net income","COMMON STOCK","CLASS B","CLASS B SHARES",
+"7","Net income","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"7","Net income","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"7","Net income","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"7","Net income","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","1933"
+"7","Net income","Custom Group All","Custom Group All","TOTAL","1933"
+"8","Other comprehensive income (loss)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"8","Other comprehensive income (loss)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"8","Other comprehensive income (loss)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"8","Other comprehensive income (loss)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"8","Other comprehensive income (loss)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"8","Other comprehensive income (loss)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","104"
+"8","Other comprehensive income (loss)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"8","Other comprehensive income (loss)","Custom Group All","Custom Group All","TOTAL","104"
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","COMMON STOCK","CLASS A","CLASS A SHARES",
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","COMMON STOCK","CLASS B","CLASS B SHARES",
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","17"
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-17"
+"9","Reclassifications to retained earnings in accordance with ASU 2018-02","Custom Group All","Custom Group All","TOTAL","0"
+"11","Stock options exercised","COMMON STOCK","CLASS A","CLASS A SHARES",
+"11","Stock options exercised","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"11","Stock options exercised","COMMON STOCK","CLASS B","CLASS B SHARES","18"
+"11","Stock options exercised","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"11","Stock options exercised","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","539"
+"11","Stock options exercised","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"11","Stock options exercised","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"11","Stock options exercised","Custom Group All","Custom Group All","TOTAL","539"
+"13","Repurchase of Class B Common Stock","COMMON STOCK","CLASS A","CLASS A SHARES",
+"13","Repurchase of Class B Common Stock","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"13","Repurchase of Class B Common Stock","COMMON STOCK","CLASS B","CLASS B SHARES","-54"
+"13","Repurchase of Class B Common Stock","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"13","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","-227"
+"13","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"13","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-4056"
+"13","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","TOTAL","-4283"
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-1360"
+"14","Dividends on common stock ($0.86 per share) preferred stock ($0.10 per and share)","Custom Group All","Custom Group All","TOTAL","-1360"
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS A","CLASS A SHARES",
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS B","CLASS B SHARES","3"
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","142"
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-3"
+"15","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","TOTAL","139"
+"16","Stock-based compensation","COMMON STOCK","CLASS A","CLASS A SHARES",
+"16","Stock-based compensation","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"16","Stock-based compensation","COMMON STOCK","CLASS B","CLASS B SHARES",
+"16","Stock-based compensation","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"16","Stock-based compensation","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","325"
+"16","Stock-based compensation","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"16","Stock-based compensation","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"16","Stock-based compensation","Custom Group All","Custom Group All","TOTAL","325"
+"17","Net income","COMMON STOCK","CLASS A","CLASS A SHARES",
+"17","Net income","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"17","Net income","COMMON STOCK","CLASS B","CLASS B SHARES",
+"17","Net income","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"17","Net income","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"17","Net income","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"17","Net income","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","4029"
+"17","Net income","Custom Group All","Custom Group All","TOTAL","4029"
+"18","Other comprehensive income (loss)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"18","Other comprehensive income (loss)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"18","Other comprehensive income (loss)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"18","Other comprehensive income (loss)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"18","Other comprehensive income (loss)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"18","Other comprehensive income (loss)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","323"
+"18","Other comprehensive income (loss)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"18","Other comprehensive income (loss)","Custom Group All","Custom Group All","TOTAL","323"
+"19","Adoption of ASU 2016-16 (Note 1)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"19","Adoption of ASU 2016-16 (Note 1)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"19","Adoption of ASU 2016-16 (Note 1)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"19","Adoption of ASU 2016-16 (Note 1)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"19","Adoption of ASU 2016-16 (Note 1)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"19","Adoption of ASU 2016-16 (Note 1)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"19","Adoption of ASU 2016-16 (Note 1)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-507"
+"19","Adoption of ASU 2016-16 (Note 1)","Custom Group All","Custom Group All","TOTAL","-507"
+"20","Adoption of ASC Topic 606 (Note 1)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"20","Adoption of ASC Topic 606 (Note 1)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"20","Adoption of ASC Topic 606 (Note 1)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"20","Adoption of ASC Topic 606 (Note 1)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"20","Adoption of ASC Topic 606 (Note 1)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"20","Adoption of ASC Topic 606 (Note 1)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"20","Adoption of ASC Topic 606 (Note 1)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","23"
+"20","Adoption of ASC Topic 606 (Note 1)","Custom Group All","Custom Group All","TOTAL","23"
+"22","Stock options exercised","COMMON STOCK","CLASS A","CLASS A SHARES",
+"22","Stock options exercised","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"22","Stock options exercised","COMMON STOCK","CLASS B","CLASS B SHARES","20"
+"22","Stock options exercised","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"22","Stock options exercised","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","703"
+"22","Stock options exercised","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"22","Stock options exercised","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"22","Stock options exercised","Custom Group All","Custom Group All","TOTAL","703"
+"23","Repurchase of Class B Common Stock","COMMON STOCK","CLASS A","CLASS A SHARES",
+"23","Repurchase of Class B Common Stock","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"23","Repurchase of Class B Common Stock","COMMON STOCK","CLASS B","CLASS B SHARES","-34"
+"23","Repurchase of Class B Common Stock","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"23","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","-161"
+"23","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"23","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-2872"
+"23","Repurchase of Class B Common Stock","Custom Group All","Custom Group All","TOTAL","-3033"
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-1491"
+"24","Dividends on common stock ($0.955 per share) and preferred stock ($0.10 per share)","Custom Group All","Custom Group All","TOTAL","-1491"
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS A","CLASS A SHARES",
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS B","CLASS B SHARES","4"
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","165"
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-9"
+"25","Issuance of shares to employees, net of shares withheld for employee taxes","Custom Group All","Custom Group All","TOTAL","156"
+"26","Stock-based compensation","COMMON STOCK","CLASS A","CLASS A SHARES",
+"26","Stock-based compensation","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"26","Stock-based compensation","COMMON STOCK","CLASS B","CLASS B SHARES",
+"26","Stock-based compensation","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"26","Stock-based compensation","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE","429"
+"26","Stock-based compensation","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"26","Stock-based compensation","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"26","Stock-based compensation","Custom Group All","Custom Group All","TOTAL","429"
+"27","Net income","COMMON STOCK","CLASS A","CLASS A SHARES",
+"27","Net income","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"27","Net income","COMMON STOCK","CLASS B","CLASS B SHARES",
+"27","Net income","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"27","Net income","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"27","Net income","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"27","Net income","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","2539"
+"27","Net income","Custom Group All","Custom Group All","TOTAL","2539"
+"28","Other comprehensive income (loss)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"28","Other comprehensive income (loss)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"28","Other comprehensive income (loss)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"28","Other comprehensive income (loss)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"28","Other comprehensive income (loss)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"28","Other comprehensive income (loss)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)","-287"
+"28","Other comprehensive income (loss)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"28","Other comprehensive income (loss)","Custom Group All","Custom Group All","TOTAL","-287"
+"29","Adoption of ASC Topic 842 (Note 1)","COMMON STOCK","CLASS A","CLASS A SHARES",
+"29","Adoption of ASC Topic 842 (Note 1)","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"29","Adoption of ASC Topic 842 (Note 1)","COMMON STOCK","CLASS B","CLASS B SHARES",
+"29","Adoption of ASC Topic 842 (Note 1)","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"29","Adoption of ASC Topic 842 (Note 1)","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"29","Adoption of ASC Topic 842 (Note 1)","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"29","Adoption of ASC Topic 842 (Note 1)","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)","-1"
+"29","Adoption of ASC Topic 842 (Note 1)","Custom Group All","Custom Group All","TOTAL","-1"
+"12","Conversion to Class B Common Stock","COMMON STOCK","CLASS A","CLASS A SHARES","-14"
+"12","Conversion to Class B Common Stock","COMMON STOCK","CLASS A","CLASS A AMOUNT",
+"12","Conversion to Class B Common Stock","COMMON STOCK","CLASS B","CLASS B SHARES","14"
+"12","Conversion to Class B Common Stock","COMMON STOCK","CLASS B","CLASS B AMOUNT",
+"12","Conversion to Class B Common Stock","Custom Group All","Custom Group All","CAPITAL IN EXCESS OF STATED VALUE",
+"12","Conversion to Class B Common Stock","Custom Group All","Custom Group All","ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+"12","Conversion to Class B Common Stock","Custom Group All","Custom Group All","RETAINED EARNINGS (DEFICIT)",
+"12","Conversion to Class B Common Stock","Custom Group All","Custom Group All","TOTAL","0"
