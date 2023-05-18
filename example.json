@@ -16,24 +16,28 @@
         {
             "reportName": "walmart_Bs",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_BS.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_BS_config.json"
         },
         {
             "reportName": "walmart_CF",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_CF.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_CF_config.json"
         },
         {
             "reportName": "walmart_Five Year",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_Five%20year.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_Five%20year_config.json"
         },
         {
             "reportName": "walmart_IS",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_IS.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart/Walmart_IS_config.json"
         },
@@ -94,8 +98,68 @@
         {
             "reportName": "Apple Income statement",
             "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
-            "csvURL": "",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple-Income%20statement.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple-%20income%20statement.json"
+        },
+        {
+            "reportName": "Apple Balance sheet",
+            "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple-Balancesheet.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Apple/Apple-Balance%20sheet.json"
+        },
+        {
+            "reportName": "Apple Cash flow",
+            "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+            "csvURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Apple/Apple-cash%20flow.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Apple/Apple-cash%20flow.json"
+        },
+        {
+            "reportName": "AMD SEG 1",
+            "description": "Leverage support for ragged/unbalanced hierarchies, extensive formatting options and intuitive totals & subtotals management.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-Seg1.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-Seg1.json"
+        },
+        {
+            "reportName": " AMD P&L GAAP",
+            "description": "Leverage support for ragged/unbalanced hierarchies, extensive formatting options and intuitive totals & subtotals management.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-P%26L-GAAP.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-P%26l-GAAP.json"
+        },
+        {
+            "reportName": "AMD Balance sheet",
+            "description": "Leverage support for ragged/unbalanced hierarchies, extensive formatting options and intuitive totals & subtotals management.",
+            "csvURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Amd/Amd-Balanace%20sheet.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/AMd-Balance%20Sheet.json"
+        },
+        {
+            "reportName": "AMD Non GAAP",
+            "description": "Leverage support for ragged/unbalanced hierarchies, extensive formatting options and intuitive totals & subtotals management.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-Non_GAAP.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-Non-GAAP.json"
+        },
+        {
+            "reportName": "AMD Non GAAP2",
+            "description": "Leverage support for ragged/unbalanced hierarchies, extensive formatting options and intuitive totals & subtotals management.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd-Non_GAAP2.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/Amd_Non-GAAP2.json"
+        },
+        {
+            "reportName": "Amazon Cash flow",
+            "description": "Insert calculated, static and contribution rows and columns in financial statements without the need for DAX.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amazon/Amazon-%20cash%20flow.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amazon/Amazon-cash%20flow.json"
+        },
+        {
+            "reportName": "Amazon Balance sheet",
+            "description": "Insert calculated, static and contribution rows and columns in financial statements without the need for DAX.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amazon/Amazon-Balance%20sheet.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Amazon/Amazon-Balance%20sheet.json"
+        },
+        {
+            "reportName": "Amazon Income statement",
+            "description": "Insert calculated, static and contribution rows and columns in financial statements without the need for DAX.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amazon/Amazon-Income%20statement.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amazon/Amazon-%20Income%20statement.json"
         }
     ],
     "Variance": [
@@ -105,6 +169,30 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/region.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/Regional_profitability_analysis.json"
+        },
+        {
+            "reportName": "Regional profitability analysis T02 ",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/reginalprofitabilityT02.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Variance/Regional%20profitability%20analysis/RegionalprofitabilityT02.json"
+        },
+        {
+            "reportName": " Comparitive P&L T03 ",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/ComparativeP%26L%20T03.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Variance/Regional%20profitability%20analysis/ComparitiveP%26L%20T03.json"
+        },
+        {
+            "reportName": " Variance P&L T03 ",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "csvURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Variance/Regional%20profitability%20analysis/Variance%20P%26L%20T03.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/Variance%20P%26L%20T03.json"
+        },
+        {
+            "reportName": " Variance P&L T04 ",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "csvURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Variance/Regional%20profitability%20analysis/Variance%20P%26L%20T04%20.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Variance/Regional%20profitability%20analysis/Variance%20P%26L%20T04.json"
         }
     ],
     "Others": [
@@ -114,9 +202,111 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
+        },
+        {
+            "reportName": "Income statement analysis",
+            "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Income%20statement%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Income%20statement%20analysis.json"
+        },
+        {
+            "reportName": "Income Variance  analysis",
+            "description": "Utilize a variety of bullet charts such as IBCS Bullet, Conditional Bar, Comparative Bullet, Stacked and Percentage Stacked Bars",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Income%20variance%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Income%20variance%20anlaysis.json"
+        },
+        {
+            "reportName": "Demo Forbes 40 yrs",
+            "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20forbes%2040%20yrs.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20forbes%2040%20yrs.json"
+        },
+        {
+            "reportName": "Demo Forbes 90 yrs",
+            "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20forbes%2090%20yrs.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20forbes%2090%20yrs.json"
+        },
+        {
+            "reportName": "Demo Forbes Overall",
+            "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20forbes%20Overall.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20forbes%20Overall.json"
+        },
+        {
+            "reportName": "Demo sales & profit Trend ",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20sales%20%26%20Profit%20Trend.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Demo%20sales%20%26%20profit%20trend.json"
+        },
+        {
+            "reportName": "Olympics Top 10 teams ",
+            "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Olympics%20top%2010%20teams%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Olympics%20Top%2010%20teams.json"
+        },
+        {
+            "reportName": "Olympics Top Athletes ",
+            "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Olympics%20Top%20athletes.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Olympics%20top%20Athletes.json"
+        },
+        {
+            "reportName": "Olympics Performance by Women Athletes ",
+            "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Olympics%20performance%20by%20women%20athletes.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Olympics%20performance%20by%20womwn%20athletes.json"
+        },
+        {
+            "reportName": "Sales across region and states ",
+            "description": "Employ in-built templates, top and bottom n + others analysis, cell level sparkline and bar charts.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales%20across%20regions%20%26%20states.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Sales%20across%20regions%20and%20states%20.json"
+        },
+        {
+            "reportName": " sales performance ",
+            "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Sales%20performance.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/SalesPerformance.json"
+        },
+        {
+            "reportName": "Sales  of CY vs PY ",
+            "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales%20of%20Cy%20vs%20Py.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales%20of%20CY%20vs%20Py.json"
+        },
+        {
+            "reportName": "Top & bottom 20 Products ",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Top%20%26%20Bottom%2020%20products.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Top%20%26%20bottom%2020%20products.json"
+        },
+        {
+            "reportName": "Top  20 Customers ",
+            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Top%2020%20Customers.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Top%2020%20Customers%20.json"
+        },
+        {
+            "reportName": "Unemployment Cross filterig",
+            "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemployment%20cross%20filtering%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemployment%20cross%20filtering.json"
+        },
+        {
+            "reportName": "Unemployment Variance analysis",
+            "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemployment%20variance%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemployment%20variance%20analysis.json"
+        },
+        {
+            "reportName": "Unemployment segmentation",
+            "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemploymnet%20segamentation%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemploymet%20Segmentation.json"
         }
     ],
-    " Single Page Dashboard": [
+    " Single Page Dashboards": [
         {
             "reportName": "Income statement analysis",
             "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
