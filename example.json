@@ -230,121 +230,121 @@
         {
             "reportName": "Income statement analysis",
             "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/inforiver-colleration-trend-analysis-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/Income%20statement%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/Income%20statement%20analysis.json"
         },
         {
             "reportName": "Income Variance  analysis",
             "description": "Utilize a variety of bullet charts such as IBCS Bullet, Conditional Bar, Comparative Bullet, Stacked and Percentage Stacked Bars",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/inforiver-colleration-trend-analysis-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20variance%20%20analysis/Income%20variance%20analysis.csv",
+            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Other/Income%20variance%20%20analysis/Income%20variance%20anlaysis.json"
         },
         {
             "reportName": "Demo Forbes 40 yrs",
             "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/inforiver-demo-forbes-billionaires-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.json"
         },
         {
             "reportName": "Demo Forbes 90 yrs",
             "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2090%20yrs/inforiver-demo-forbes-billionaires-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2090%20yrs/Demo%20forbes%2090%20yrs.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2090%20yrs/Demo%20forbes%2090%20yrs.json"
         },
         {
             "reportName": "Demo Forbes Overall",
             "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/inforiver-demo-forbes-billionaires-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.json"
         },
         {
             "reportName": "Demo sales & profit Trend ",
             "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/inforiver-demo-forbes-billionaires-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20Profit%20Trend.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20profit%20trend.json"
         },
         {
             "reportName": "Olympics Top 10 teams ",
             "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20top%2010%20teams%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20Top%2010%20teams.json"
         },
         {
             "reportName": "Olympics Top Athletes ",
             "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/inforiver-olympics-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20Top%20athletes.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20top%20Athletes.json"
         },
         {
             "reportName": "Olympics Performance by Women Athletes ",
             "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20Performance%20by%20women/Olympics%20performance%20by%20women%20athletes.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20Performance%20by%20women/Olympics%20performance%20by%20womwn%20athletes.json"
         },
         {
             "reportName": "Sales across region and states ",
             "description": "Employ in-built templates, top and bottom n + others analysis, cell level sparkline and bar charts.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/sales%20across%20regions%20%26%20states.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/Sales%20across%20regions%20and%20states%20.json"
         },
         {
             "reportName": " sales performance ",
             "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20performance/Sales%20performance.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20performance/SalesPerformance.json"
         },
         {
             "reportName": "Sales  of CY vs PY ",
             "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20of%20CY%20vs%20PY/sales%20of%20Cy%20vs%20Py.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20of%20CY%20vs%20PY/sales%20of%20CY%20vs%20Py.json"
         },
         {
             "reportName": "Top & bottom 20 Products ",
             "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%20%26%20botton%2020%20products/Top%20%26%20Bottom%2020%20products.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%20%26%20botton%2020%20products/Top%20%26%20bottom%2020%20products.json"
         },
         {
             "reportName": "Top  20 Customers ",
             "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%2020%20Customers/Top%2020%20Customers.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%2020%20Customers/Top%2020%20Customers%20.json "
         },
         {
             "reportName": "Unemployment Cross filterig",
             "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20cross%20filtering/Unemployment%20cross%20filtering%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20cross%20filtering/Unemployment%20cross%20filtering.json"
         },
         {
             "reportName": "Unemployment Variance analysis",
             "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.json"
         },
         {
             "reportName": "Unemployment segmentation",
             "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
-            "image": "",
-            "csvURL": "",
-            "jsonURL": ""
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20Segmentation/Unemploymnet%20segamentation%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20Segmentation/Unemploymet%20Segmentation.json"
         }
     ],
     "Single page Dashboards": [
