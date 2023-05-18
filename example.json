@@ -3,7 +3,7 @@
         "Finanicials",
         "Variance",
         "Others",
-        "Single page Dashboard"
+        "Single page Dashboards"
     ],
     "Finanicials": [
         {
@@ -306,7 +306,7 @@
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/Unemploymet%20Segmentation.json"
         }
     ],
-    " Single Page Dashboards": [
+    " Single page Dashboards": [
         {
             "reportName": "Income statement analysis",
             "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
