@@ -32,14 +32,14 @@
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year.csv",
-            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year_config.json"
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year_config.json"
         },
         {
             "reportName": "walmart_IS",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS.csv",
-            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS_config.json"
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS_config.json"
         },
         {
             "reportName": "GE Assumptions",
@@ -53,7 +53,7 @@
             "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/inforiver-GE-demo-image-2048x1199.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20Non%20Gap/Ge_Non-Gap.csv",
-            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Ge/GE%20Non%20Gap/Ge_Non-Gap.json"
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20Non%20Gap/Ge_Non-Gap.json"
         },
         {
             "reportName": "Nike Balance Sheet",
@@ -67,7 +67,7 @@
             "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow.csv",
-            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
         },
         {
             "reportName": "Nike Income statement",
@@ -239,7 +239,7 @@
             "description": "Utilize a variety of bullet charts such as IBCS Bullet, Conditional Bar, Comparative Bullet, Stacked and Percentage Stacked Bars",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/inforiver-colleration-trend-analysis-image.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20variance%20%20analysis/Income%20variance%20analysis.csv",
-            "jsonURL": "https://github.com/vbinithyanandamv/Examples/blob/main/Other/Income%20variance%20%20analysis/Income%20variance%20anlaysis.json"
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20variance%20%20analysis/Income%20variance%20anlaysis.json"
         },
         {
             "reportName": "Demo Forbes 40 yrs",
