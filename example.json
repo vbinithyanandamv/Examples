@@ -108,8 +108,8 @@
             "reportName": "Apple Income statement",
             "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Income%20Statement/Apple-%20income%20statement.json",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Income%20Statement/Apple-Income%20statement.csv"
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Income%20Statement/Apple-Income%20statement.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Income%20Statement/Apple-%20income%20statement.json"
         },
         {
             "reportName": "Apple Balance sheet",
@@ -359,15 +359,15 @@
             "reportName": "Single page variance analysis",
             "description": "Utilize a variety of bullet charts such as IBCS Bullet, Conditional Bar, Comparative Bullet, Stacked and Percentage Stacked Bars.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis/inforiver-variance-analysis-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis.json"
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/78b193eaf9cff0f02c0fba1527d7c5ebbd3a6b66/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis/Single%20page%20demo%20variance%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/78b193eaf9cff0f02c0fba1527d7c5ebbd3a6b66/Single%20page%20Dashboards/Single%20page%20demo%20variance%20analysis/Single%20page%20demo%20variance%20analysis.json"
         },
         {
             "reportName": "Single Page sales performance analysis",
             "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance/inforiver-spr-demo-image-2048x1199.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance%20.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance.json"
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance/Single%20page%20sales%20performance%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/Single%20page%20sales%20performance/Single%20page%20sales%20performance.json"
         }
     ]
 }
