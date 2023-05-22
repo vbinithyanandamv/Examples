@@ -1,4 +1,4 @@
-Index,(Dollars in millions),Group 1,Value Column Name,Value
+"Index","(Dollars in millions)","Group 1","Value Column Name","Value"
 "35","CASH AND EQUIVALENTS, END OF YEAR","YEAR ENDED MAY 31.","2020","8348"
 "35","CASH AND EQUIVALENTS, END OF YEAR","YEAR ENDED MAY 31.","2019","4466"
 "35","CASH AND EQUIVALENTS, END OF YEAR","YEAR ENDED MAY 31.","2018","4249"
@@ -121,4 +121,4 @@ Index,(Dollars in millions),Group 1,Value Column Name,Value
 "18","Purchases of short-term investments","YEAR ENDED MAY 31.","2018","-4783"
 "28","Repurchase of common stock","YEAR ENDED MAY 31.","2020","-3067"
 "28","Repurchase of common stock","YEAR ENDED MAY 31.","2019","-4286"
-"28","Repurchase of common stock","YEAR ENDED MAY 31.","2018","-4254"
+"28","Repurchase of common stock","YEAR ENDED MAY 31.","2018","-4254"   
