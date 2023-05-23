@@ -1403,7 +1403,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -4384,15 +4384,12 @@
             "FiveYear.Index",
             "FiveYear.(Amounts in millions, except per share and unit count data)"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "FiveYear.Index": "Index",
             "FiveYear.(Amounts in millions, except per share and unit count data)": "(Amounts in millions, except per share and unit count data)",
-            "group_measures": "",
             "Sum(FiveYear.2020)": "2020",
             "Sum(FiveYear.2019)": "2019",
             "Sum(FiveYear.2018)": "2018",
