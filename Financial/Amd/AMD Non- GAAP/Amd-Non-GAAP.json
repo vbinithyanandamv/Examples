@@ -1234,7 +1234,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -3635,15 +3635,12 @@
             "Non-GAAP_table1.Index",
             "Non-GAAP_table1.Description"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "Non-GAAP_table1.Index": "Index",
             "Non-GAAP_table1.Description": "Description",
-            "group_measures": "",
             "Sum(Non-GAAP_table1.Dec 26 2020 (3Months))": "Dec 26 2020 (3Months)",
             "Sum(Non-GAAP_table1.Dec 26 2020 Year End)": "Dec 26 2020 Year End",
             "Sum(Non-GAAP_table1.Dec 28 2019 (3Months))": "Dec 28 2019 (3Months)",

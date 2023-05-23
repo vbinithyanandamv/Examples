@@ -1,4 +1,4 @@
-Region,State,Year,Month,Value Column Name,Value
+"Region","State","Year","Month","Value Column Name","Value"
 "Central","Illinois","2015","January","Sales","288.06"
 "Central","Illinois","2015","January","Cost","352.85009999999994"
 "Central","Illinois","2015","January","Total Orders","3"

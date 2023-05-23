@@ -1192,7 +1192,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,

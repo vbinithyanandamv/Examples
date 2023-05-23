@@ -1311,7 +1311,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -4029,17 +4029,12 @@
             "SH_EQUITY.Index",
             "SH_EQUITY.(In millions, except per share data)"
         ],
-        "columns": [
-            "group_group_measures",
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "SH_EQUITY.Index": "Index",
             "SH_EQUITY.(In millions, except per share data)": "(In millions, except per share data)",
-            "group_group_measures": "",
-            "group_measures": "",
             "Sum(SH_EQUITY.CLASS A SHARES)": "CLASS A SHARES",
             "Sum(SH_EQUITY.CLASS A AMOUNT)": "CLASS A AMOUNT",
             "Sum(SH_EQUITY.CLASS B SHARES)": "CLASS B SHARES",

@@ -1,4 +1,4 @@
-Rank,Name,Country,Source,Value Column Name,Value
+"Rank","Name","Country","Source","Value Column Name","Value"
 "1362","Alexander Mamut","Russia","Native","NetWorth","2.3"
 "1362","Alexander Mamut","Russia","Native","Age","61"
 "1362","Alexander Mamut","Russia","Native","Children","5"
@@ -16514,7 +16514,7 @@ Rank,Name,Country,Source,Value Column Name,Value
 "194","Jorge Moll Filho & family","Brazil","Native","NetWorth","11.3"
 "194","Jorge Moll Filho & family","Brazil","Native","Age","76"
 "194","Jorge Moll Filho & family","Brazil","Native","Children","5"
-"194","Jorge Moll Filho & family","Brazil","Native","NetWorth","11.3"   
+"194","Jorge Moll Filho & family","Brazil","Native","NetWorth","11.3"
 "194","Jorge Moll Filho & family","Brazil","Native","Age","76"
 "194","Jorge Moll Filho & family","Brazil","Native","Children","5"
 "223","Larry Xiangdong Chen","China","Native","NetWorth","10.2"

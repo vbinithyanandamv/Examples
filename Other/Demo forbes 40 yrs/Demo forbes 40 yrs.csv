@@ -1,4 +1,4 @@
-Rank,Name,Country,Source,Value Column Name,Value
+"Rank","Name","Country","Source","Value Column Name","Value"
 "1362","Alexander Mamut","Russia","Native","NetWorth","2.3"
 "1362","Alexander Mamut","Russia","Native","Age","61"
 "1362","Alexander Mamut","Russia","Native","NetWorth - Age","-58.7"

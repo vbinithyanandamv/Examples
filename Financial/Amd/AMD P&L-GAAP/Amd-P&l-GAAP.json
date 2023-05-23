@@ -1242,7 +1242,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -2690,15 +2690,12 @@
             "P&L_GAAP.Index",
             "P&L_GAAP.Description"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "P&L_GAAP.Index": "Index",
             "P&L_GAAP.Description": "Description",
-            "group_measures": "",
             "Sum(P&L_GAAP.Dec 26 2020 (3Months))": "Dec 26 2020 (3Months)",
             "Sum(P&L_GAAP.Sep 26 2020 (3Months))": "Sep 26 2020 (3Months)",
             "Sum(P&L_GAAP.Dec 28 2019 Year End)": "Dec 28 2019 Year End",

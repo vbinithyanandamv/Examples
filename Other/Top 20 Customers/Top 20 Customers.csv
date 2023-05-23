@@ -1,4 +1,4 @@
-State,Customer Name,Value Column Name,Value
+"State","Customer Name","Value Column Name","Value"
 "California","Ken Lonsdale","Sales","8341.29"
 "California","Ken Lonsdale","Sales Margin %","0.0026374817324418642"
 "California","Ken Lonsdale","Profit","378.2074"

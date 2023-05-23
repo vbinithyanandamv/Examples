@@ -1253,7 +1253,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -3832,14 +3832,11 @@
         "rows": [
             "Balance Sheet.At December 31 "
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "Balance Sheet.At December 31 ": "At December 31 ",
-            "group_measures": "",
             "Sum(Balance Sheet.2019)": "2019",
             "Sum(Balance Sheet.2018)": "2018"
         },

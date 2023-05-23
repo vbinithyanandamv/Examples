@@ -1278,7 +1278,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -7391,14 +7391,11 @@
         "rows": [
             "Cash Flow.Year Ended December 31 "
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "Cash Flow.Year Ended December 31 ": "Year Ended December 31 ",
-            "group_measures": "",
             "Sum(Cash Flow.2019)": "2019",
             "Sum(Cash Flow.2018)": "2018",
             "Sum(Cash Flow.2017)": "2017"

@@ -1419,7 +1419,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -2018,15 +2018,12 @@
             "IS.Index",
             "IS.Column1"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "IS.Index": "Index",
             "IS.Column1": "Column1",
-            "group_measures": "",
             "Sum(IS.September 26, 2020)": "September 26, 2020",
             "Sum(IS.September 28, 2019)": "September 28, 2019",
             "Sum(IS.September 29, 2018)": "September 29, 2018"

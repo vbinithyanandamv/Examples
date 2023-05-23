@@ -1534,7 +1534,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -3306,15 +3306,12 @@
             "GE_Table3.Index",
             "GE_Table3.Description"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "GE_Table3.Index": "Index",
             "GE_Table3.Description": "Description",
-            "group_measures": "",
             "Sum(GE_Table3.Revenues_2020)": "Revenues_2020",
             "Sum(GE_Table3.Revenues_2019)": "Revenues_2019",
             "Sum(GE_Table3.Revenues_V%)": "Revenues_V%",

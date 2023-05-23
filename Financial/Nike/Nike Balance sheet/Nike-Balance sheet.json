@@ -1425,7 +1425,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -3785,15 +3785,12 @@
             "BS.Index",
             "BS.(In millions)"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "BS.Index": "Index",
             "BS.(In millions)": "(In millions)",
-            "group_measures": "",
             "Sum(BS.2020)": "2020",
             "Sum(BS.2019)": "2019"
         },

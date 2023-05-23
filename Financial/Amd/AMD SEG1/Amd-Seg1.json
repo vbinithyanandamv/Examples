@@ -1241,7 +1241,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -2900,15 +2900,12 @@
             "SEG1.Index",
             "SEG1.Description"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "SEG1.Index": "Index",
             "SEG1.Description": "Description",
-            "group_measures": "",
             "Sum(SEG1.Dec 26 2020 (3Months))": "Dec 26 2020 (3Months)",
             "Sum(SEG1.Sep 26 2020 (3Months))": "Sep 26 2020 (3Months)",
             "Sum(SEG1.Dec 28 2019 (3Months))": "Dec 28 2019 (3Months)",

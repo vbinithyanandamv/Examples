@@ -1468,7 +1468,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -3165,15 +3165,12 @@
             "IS.Index",
             "IS.(Amounts in millions, except per share data)"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "IS.Index": "Index",
             "IS.(Amounts in millions, except per share data)": "(Amounts in millions, except per share data)",
-            "group_measures": "",
             "Sum(IS.2020)": "2020",
             "Sum(IS.2019)": "2019",
             "Sum(IS.2018)": "2018"

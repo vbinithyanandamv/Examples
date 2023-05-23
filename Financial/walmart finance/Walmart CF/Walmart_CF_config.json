@@ -1476,7 +1476,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -2933,15 +2933,12 @@
             "CF.Index",
             "CF.(Amounts in millions)"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "CF.Index": "Index",
             "CF.(Amounts in millions)": "(Amounts in millions)",
-            "group_measures": "",
             "Sum(CF.2020)": "2020",
             "Sum(CF.2019)": "2019",
             "Sum(CF.2018)": "2018"

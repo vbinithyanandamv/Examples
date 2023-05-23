@@ -1320,7 +1320,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -4077,15 +4077,12 @@
             "Income Statement.Index",
             "Income Statement.Year Ended December 31"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "Income Statement.Index": "Index",
             "Income Statement.Year Ended December 31": "Year Ended December 31",
-            "group_measures": "",
             "Sum(Income Statement.2019)": "2019",
             "Sum(Income Statement.2018)": "2018",
             "Sum(Income Statement.2017)": "2017"

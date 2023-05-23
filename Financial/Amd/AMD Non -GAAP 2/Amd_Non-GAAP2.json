@@ -1432,7 +1432,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -3088,17 +3088,12 @@
             "Non-GAAP_table2.Index",
             "Non-GAAP_table2.Description"
         ],
-        "columns": [
-            "group_group_measures",
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "Non-GAAP_table2.Index": "Index",
             "Non-GAAP_table2.Description": "Description",
-            "group_group_measures": "",
-            "group_measures": "",
             "Sum(Non-GAAP_table2.Col1)": "Col1",
             "Sum(Non-GAAP_table2.Col2)": "Col2",
             "Sum(Non-GAAP_table2.Col3)": "Col3",

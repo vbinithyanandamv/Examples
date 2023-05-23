@@ -3628,7 +3628,7 @@
                 "enabled": false,
                 "cols": []
             },
-            "categoryBreak": "none",
+            "categoryBreak": [],
             "columnSpacing": 10,
             "summaryPage": {
                 "enabled": false,
@@ -4190,14 +4190,11 @@
         "rows": [
             "ActualVsBudget.Products"
         ],
-        "columns": [
-            "group_measures"
-        ],
+        "columns": [],
         "rolesMap": {},
         "typesMap": {},
         "labelMap": {
             "ActualVsBudget.Products": "Products",
-            "group_measures": "",
             "Sum(ActualVsBudget.Rev Act)": "Rev Act",
             "Sum(ActualVsBudget.Rev Bdg)": "Rev Bdg",
             "Sum(ActualVsBudget.In Act)": "In Act",
