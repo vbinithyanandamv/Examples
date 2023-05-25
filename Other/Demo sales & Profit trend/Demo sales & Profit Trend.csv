@@ -1,4 +1,4 @@
-Region,State,Year,Value Column Name,Value
+"Region","State","Year","Value Column Name","Value"
 "Central","Illinois","2015","Sales","16202.707"
 "Central","Illinois","2015","Profit","-2043.7367000000008"
 "Central","Illinois","2016","Sales","18578.064"
