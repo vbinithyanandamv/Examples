@@ -41,6 +41,13 @@
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS_config.json"
         },
         {
+            "reportName": "GE Assumptions",
+            "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/inforiver-GE-demo-image-2048x1199.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions_config.json"
+        },
+        {
             "reportName": "Nike Balance Sheet",
             "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
@@ -125,6 +132,13 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
+        },
+        {
+            "reportName": "Variance P&L T04",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/inforiver-ibcs-t04-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04.json"
         }
     ],
     "Others": [
@@ -134,6 +148,13 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
+        },
+        {
+            "reportName": "Income statement analysis",
+            "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/inforiver-colleration-trend-analysis-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/Income%20statement%20analysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Income%20statement%20Analysis/Income%20statement%20analysis.json"
         },
         {
             "reportName": "Demo Forbes 40 yrs",
@@ -204,6 +225,15 @@
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.json"
+        }
+    ],
+    "Single page Dashboards": [
+        {
+            "reportName": "Income statement analysis",
+            "description": "Perform trend and variance analysis on financial statements using sparklines and advanced conditional formatting.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/InCome%20Statement%20analysis/inforiver-colleration-trend-analysis-image-2048x1199.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/InCome%20Statement%20analysis/Income%20statement%20analysis%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Single%20page%20Dashboards/InCome%20Statement%20analysis/Income%20statement%20analysis.json"
         }
     ]
 }
