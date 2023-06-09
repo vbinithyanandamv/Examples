@@ -56,20 +56,41 @@
     }
   ],
   "Variance": [
-    {
-      "reportName": "Comparitive P&L T03",
-      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
-      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparativeP%26L%20T03.csv",
-      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparitiveP%26L%20T03.json"
-    },
-    {
-      "reportName": "Variance P&L T03",
-      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
-      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
-      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
-    }
+     {
+            "reportName": "Regional profitability analysis",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitablityanalysis.json"
+        },
+        {
+            "reportName": "Regional profitability analysis T02",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/inforiver-ibcs-t01-t02-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/reginalprofitabilityT02.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/RegionalprofitabilityT02.json"
+        },
+        {
+            "reportName": "Comparitive P&L T03",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparativeP%26L%20T03.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparitiveP%26L%20T03.json"
+        },
+        {
+            "reportName": "Variance P&L T03",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
+        },
+        {
+            "reportName": "Variance P&L T04",
+            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/inforiver-ibcs-t04-demo-image.png",
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04%20.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04.json"
+        }
   ],
   "Others": [
     {
