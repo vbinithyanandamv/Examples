@@ -1,181 +1,181 @@
 {
-    "sections": [
-        "Financials",
-        "Variance",
-        "Others"
-    ],
-    "Financials": [
-        {
-            "reportName": "Walmart",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart/walmart.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart/walmart_config.json"
-        },
-        {
-            "reportName": "Walmart Bs",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
-        },
-        {
-            "reportName": "Walmart CF",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF_config.json"
-        },
-        {
-            "reportName": "Walmart Five Year",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year_config.json"
-        },
-        {
-            "reportName": "Walmart IS",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS_config.json"
-        },
-        {
-            "reportName": "GE Assumptions",
-            "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/inforiver-GE-demo-image-2048x1199.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions_config.json"
-        },
-        {
-            "reportName": "Nike Balance Sheet",
-            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-balance%20sheet.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-Balance%20sheet.json"
-        },
-        {
-            "reportName": "Nike cash flow",
-            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
-        },
-        {
-            "reportName": "Nike Income statement",
-            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.json"
-        },
-        {
-            "reportName": "Apple Balance sheet",
-            "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balancesheet.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balance%20sheet.json"
-        },
-        {
-            "reportName": "Apple Cash flow",
-            "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.json"
-        },
-    ],
-    "Variance": [
-        {
-            "reportName": "Comparitive P&L T03",
-            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparativeP%26L%20T03.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparitiveP%26L%20T03.json"
-        },
-        {
-            "reportName": "Variance P&L T03",
-            "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
-        }
-    ],
-    "Others": [
-        {
-            "reportName": "Sales Dashboard",
-            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
-        },
-        {
-            "reportName": "Demo Forbes 40 yrs",
-            "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/inforiver-demo-forbes-billionaires-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.json"
-        },
-        {
-            "reportName": "Demo Forbes Overall",
-            "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/inforiver-demo-forbes-billionaires-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.json"
-        },
-        {
-            "reportName": "Demo sales & profit Trend",
-            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/inforiver-demo-forbes-billionaires-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20Profit%20Trend.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20profit%20trend.json"
-        },
-        {
-            "reportName": "Olympics Top 10 teams",
-            "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20top%2010%20teams%20.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20Top%2010%20teams.json"
-        },
-        {
-            "reportName": "Olympics Top Athletes",
-            "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/inforiver-olympics-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20Top%20athletes.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20top%20Athletes.json"
-        },
-        {
-            "reportName": "Olympics Performance by Women Athletes",
-            "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20Performance%20by%20women/Olympics%20performance%20by%20women%20athletes.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20Performance%20by%20women/Olympics%20performance%20by%20womwn%20athletes.json"
-        },
-        {
-            "reportName": "Sales of CY vs PY",
-            "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20of%20CY%20vs%20PY/sales%20of%20Cy%20vs%20Py.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20of%20CY%20vs%20PY/sales%20of%20CY%20vs%20Py.json"
-        },
-        {
-            "reportName": "Top 20 Customers",
-            "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%2020%20Customers/Top%2020%20Customers.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%2020%20Customers/Top%2020%20Customers%20.json "
-        },
-        {
-            "reportName": "Unemployment Cross filterig",
-            "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20cross%20filtering/Unemployment%20cross%20filtering%20.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20cross%20filtering/Unemployment%20cross%20filtering.json"
-        },
-        {
-            "reportName": "Unemployment Variance analysis",
-            "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.json"
-        }
-    ]
+  "sections": [
+    "Financials",
+    "Variance",
+    "Others"
+  ],
+  "Financials": [
+    {
+      "reportName": "Walmart",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart/walmart.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart/walmart_config.json"
+    },
+    {
+      "reportName": "Walmart Bs",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
+    },
+    {
+      "reportName": "Walmart CF",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF_config.json"
+    },
+    {
+      "reportName": "Walmart Five Year",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year_config.json"
+    },
+    {
+      "reportName": "Walmart IS",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS_config.json"
+    },
+    {
+      "reportName": "GE Assumptions",
+      "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/inforiver-GE-demo-image-2048x1199.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions_config.json"
+    },
+    {
+      "reportName": "Nike Balance Sheet",
+      "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-balance%20sheet.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-Balance%20sheet.json"
+    },
+    {
+      "reportName": "Nike cash flow",
+      "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
+    },
+    {
+      "reportName": "Nike Income statement",
+      "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.json"
+    },
+    {
+      "reportName": "Apple Balance sheet",
+      "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balancesheet.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balance%20sheet.json"
+    },
+    {
+      "reportName": "Apple Cash flow",
+      "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.json"
+    }
+  ],
+  "Variance": [
+    {
+      "reportName": "Comparitive P&L T03",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparativeP%26L%20T03.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparitiveP%26L%20T03.json"
+    },
+    {
+      "reportName": "Variance P&L T03",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
+    }
+  ],
+  "Others": [
+    {
+      "reportName": "Sales Dashboard",
+      "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
+    },
+    {
+      "reportName": "Demo Forbes 40 yrs",
+      "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/inforiver-demo-forbes-billionaires-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.json"
+    },
+    {
+      "reportName": "Demo Forbes Overall",
+      "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/inforiver-demo-forbes-billionaires-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.json"
+    },
+    {
+      "reportName": "Demo sales & profit Trend",
+      "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/inforiver-demo-forbes-billionaires-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20Profit%20Trend.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20profit%20trend.json"
+    },
+    {
+      "reportName": "Olympics Top 10 teams",
+      "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20top%2010%20teams%20.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20Top%2010%20teams.json"
+    },
+    {
+      "reportName": "Olympics Top Athletes",
+      "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/inforiver-olympics-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20Top%20athletes.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20top%20Athletes.json"
+    },
+    {
+      "reportName": "Olympics Performance by Women Athletes",
+      "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20Performance%20by%20women/Olympics%20performance%20by%20women%20athletes.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20Performance%20by%20women/Olympics%20performance%20by%20womwn%20athletes.json"
+    },
+    {
+      "reportName": "Sales of CY vs PY",
+      "description": "Leverage features such as icon-based conditional formatting, blended columns and stepped layout.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20of%20CY%20vs%20PY/sales%20of%20Cy%20vs%20Py.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20of%20CY%20vs%20PY/sales%20of%20CY%20vs%20Py.json"
+    },
+    {
+      "reportName": "Top 20 Customers",
+      "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Across%20region%20%26%20states/inforiver-colleration-SD-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%2020%20Customers/Top%2020%20Customers.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Top%2020%20Customers/Top%2020%20Customers%20.json "
+    },
+    {
+      "reportName": "Unemployment Cross filterig",
+      "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20cross%20filtering/Unemployment%20cross%20filtering%20.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Unemployment%20cross%20filtering/Unemployment%20cross%20filtering.json"
+    },
+    {
+      "reportName": "Unemployment Variance analysis",
+      "description": "Use advanced conditional formatting features such as segmentation and heat maps; perform sorting and variance analysis.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/inforiver-uer-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Umemployment%20Variance%20analysis/Unemployment%20variance%20analysis.json"
+    }
+  ]
 }
