@@ -6,27 +6,6 @@
     ],
     "Financials": [
         {
-            "reportName": "Walmart",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart/walmart.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart/walmart_config.json"
-        },
-        {
-            "reportName": "Walmart Bs",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
-        },
-        {
-            "reportName": "Walmart CF",
-            "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF_config.json"
-        },
-        {
             "reportName": "Walmart Five Year",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
@@ -34,18 +13,11 @@
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year_config.json"
         },
         {
-            "reportName": "Walmart IS",
+            "reportName": "Walmart Balance Sheets",
             "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20_js/Walmart_IS_config.json"
-        },
-        {
-            "reportName": "GE Assumptions",
-            "description": "Experience the low code/no code approach; simply assign the data and customize without the need for programming.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/inforiver-GE-demo-image-2048x1199.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Ge/GE%20assunptions/Ge_assumptions_config.json"
+            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
+            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
         },
         {
             "reportName": "Nike Balance Sheet",
@@ -62,41 +34,6 @@
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
         },
         {
-            "reportName": "Nike Income statement",
-            "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.json"
-        },
-        {
-            "reportName": "Chevron Balance sheet",
-            "description": "Create financial statements by leveraging Inforiver's intelligent and automated number formatting capability.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/inforiver-chevron-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron%20balance%20sheet/Chevron-Balance%20sheet.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron%20balance%20sheet/Chevron-Balance%20sheet.json"
-        },
-        {
-            "reportName": "Chevron Cash flow",
-            "description": "Create financial statements by leveraging Inforiver's intelligent and automated number formatting capability.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/inforiver-chevron-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron%20Cash%20flow/Chevron-cash%20flow.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron%20Cash%20flow/Chevron-csah%20flow.json"
-        },
-        {
-            "reportName": "Chevron Income statement",
-            "description": "Create financial statements by leveraging Inforiver's intelligent and automated number formatting capability.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/inforiver-chevron-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron%20Income%20%20statement/Chevron-Income%20statement.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Chevron/Chevron%20Income%20%20statement/Chevron-Income%20statement.json"
-        },
-        {
-            "reportName": "Apple Income statement",
-            "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Income%20Statement/Apple-Income%20statement.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Income%20Statement/Apple-%20income%20statement.json"
-        },
-        {
             "reportName": "Apple Balance sheet",
             "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
             "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
@@ -110,13 +47,6 @@
             "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.csv",
             "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.json"
         },
-        {
-            "reportName": "AMD Balance sheet",
-            "description": "Leverage support for ragged/unbalanced hierarchies, extensive formatting options and intuitive totals & subtotals management.",
-            "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/inforiver-AMD-demo-image.png",
-            "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/AMD%20balance%20sheet/Amd-Balanace%20sheet.csv",
-            "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Amd/AMD%20balance%20sheet/AMd-Balance%20Sheet.json"
-        }
     ],
     "Variance": [
         {
