@@ -6,18 +6,18 @@
   ],
   "Financials": [
     {
-      "reportName": "Walmart Bs",
+      "reportName": "Walmart Balance Sheets",
       "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
       "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
       "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
       "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
     },
     {
-      "reportName": "Walmart Five Year",
+      "reportName": "Walmart Cash Flow",
       "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
       "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year.csv",
-      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20Five%20year/Walmart_Five%20year_config.json"
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF_config.json"
     },
     {
       "reportName": "Nike Balance Sheet",
