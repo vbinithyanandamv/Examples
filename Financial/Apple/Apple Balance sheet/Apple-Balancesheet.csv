@@ -1,83 +1,42 @@
-"Index","Column1","Value Column Name","Value"
-"16","Total assets","September 26, 2020","323888"
-"16","Total assets","September 28, 2019","338516"
-"40","Total liabilities and shareholders' equity","September 26, 2020","323888"
-"40","Total liabilities and shareholders' equity","September 28, 2019","338516"
-"31","Total liabilities","September 26, 2020","258549"
-"31","Total liabilities","September 28, 2019","248028"
-"15","Total non-current assets","September 26, 2020","180175"
-"15","Total non-current assets","September 28, 2019","175697"
-"30","Total non-current liabilities","September 26, 2020","153157"
-"30","Total non-current liabilities","September 28, 2019","142310"
-"9","Total current assets","September 26, 2020","143713"
-"9","Total current assets","September 28, 2019","162819"
-"25","Total current liabilities","September 26, 2020","105392"
-"25","Total current liabilities","September 28, 2019","105718"
-"12","Marketable securities","September 26, 2020","100887"
-"12","Marketable securities","September 28, 2019","105341"
-"28","Term debt","September 26, 2020","98667"
-"28","Term debt","September 28, 2019","91807"
-"39","Total shareholders' equity","September 26, 2020","65339"
-"39","Total shareholders' equity","September 28, 2019","90488"
-"29","Other non-current liabilities","September 26, 2020","54490"
-"29","Other non-current liabilities","September 28, 2019","50503"
-"4","Marketable securities","September 26, 2020","52927"
-"4","Marketable securities","September 28, 2019","51713"
-"36","Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 16,976,763 and 17,772,945 shares issued and outstanding, respectively","September 26, 2020","50779"
-"36","Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 16,976,763 and 17,772,945 shares issued and outstanding, respectively","September 28, 2019","45174"
-"21","Other current liabilities","September 26, 2020","42684"
-"21","Other current liabilities","September 28, 2019","37720"
-"14","Other non-current assets","September 26, 2020","42522"
-"14","Other non-current assets","September 28, 2019","32978"
-"20","Accounts payable","September 26, 2020","42296"
-"20","Accounts payable","September 28, 2019","46236"
-"3","Cash and cash equivalents","September 26, 2020","38016"
-"3","Cash and cash equivalents","September 28, 2019","48844"
-"13","Property, plant and equipment, net","September 26, 2020","36766"
-"13","Property, plant and equipment, net","September 28, 2019","37378"
-"7","Vendor non-trade receivables","September 26, 2020","21325"
-"7","Vendor non-trade receivables","September 28, 2019","22878"
-"5","Accounts receivable, net","September 26, 2020","16120"
-"5","Accounts receivable, net","September 28, 2019","22926"
-"37","Retained earnings","September 26, 2020","14966"
-"37","Retained earnings","September 28, 2019","45898"
-"8","Other current assets","September 26, 2020","11264"
-"8","Other current assets","September 28, 2019","12352"
-"24","Term debt","September 26, 2020","8773"
-"24","Term debt","September 28, 2019","10260"
-"22","Deferred revenue","September 26, 2020","6643"
-"22","Deferred revenue","September 28, 2019","5522"
-"23","Commercial paper","September 26, 2020","4996"
-"23","Commercial paper","September 28, 2019","5980"
-"6","Inventories","September 26, 2020","4061"
-"6","Inventories","September 28, 2019","4106"
-"(Blank)","","September 26, 2020",
-"(Blank)","","September 28, 2019",
-"1","......................................................................ASSETS:","September 26, 2020",
-"1","......................................................................ASSETS:","September 28, 2019",
-"2","Current assets:","September 26, 2020",
-"2","Current assets:","September 28, 2019",
-"10","","September 26, 2020",
-"10","","September 28, 2019",
-"11","Non-current assets:","September 26, 2020",
-"11","Non-current assets:","September 28, 2019",
-"17","","September 26, 2020",
-"17","","September 28, 2019",
-"18","LIABILITIES AND SHAREHOLDERS' EQUITY:","September 26, 2020",
-"18","LIABILITIES AND SHAREHOLDERS' EQUITY:","September 28, 2019",
-"19","Current liabilities:","September 26, 2020",
-"19","Current liabilities:","September 28, 2019",
-"26","","September 26, 2020",
-"26","","September 28, 2019",
-"27","Non-current liabilities:","September 26, 2020",
-"27","Non-current liabilities:","September 28, 2019",
-"32","","September 26, 2020",
-"32","","September 28, 2019",
-"33","Commitments and contingencies","September 26, 2020",
-"33","Commitments and contingencies","September 28, 2019",
-"34","","September 26, 2020",
-"34","","September 28, 2019",
-"35","Shareholders' equity:","September 26, 2020",
-"35","Shareholders' equity:","September 28, 2019",
-"38","Accumulated other comprehensive income/(loss)","September 26, 2020","-406"
-"38","Accumulated other comprehensive income/(loss)","September 28, 2019","-584"
+BS.Index,BS.Column1,"Sum(BS.September 26, 2020)","Sum(BS.September 28, 2019)"
+16,Total assets,323888,338516
+40,Total liabilities and shareholders' equity,323888,338516
+31,Total liabilities,258549,248028
+15,Total non-current assets,180175,175697
+30,Total non-current liabilities,153157,142310
+9,Total current assets,143713,162819
+25,Total current liabilities,105392,105718
+12,Marketable securities,100887,105341
+28,Term debt,98667,91807
+39,Total shareholders' equity,65339,90488
+29,Other non-current liabilities,54490,50503
+4,Marketable securities,52927,51713
+36,"Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 16,976,763 and 17,772,945 shares issued and outstanding, respectively",50779,45174
+21,Other current liabilities,42684,37720
+14,Other non-current assets,42522,32978
+20,Accounts payable,42296,46236
+3,Cash and cash equivalents,38016,48844
+13,"Property, plant and equipment, net",36766,37378
+7,Vendor non-trade receivables,21325,22878
+5,"Accounts receivable, net",16120,22926
+37,Retained earnings,14966,45898
+8,Other current assets,11264,12352
+24,Term debt,8773,10260
+22,Deferred revenue,6643,5522
+23,Commercial paper,4996,5980
+6,Inventories,4061,4106
+(Blank),(Blank),,
+1,ASSETS:,,
+2,Current assets:,,
+10,(Blank),,
+11,Non-current assets:,,
+17,(Blank),,
+18,LIABILITIES AND SHAREHOLDERS' EQUITY:,,
+19,Current liabilities:,,
+26,(Blank),,
+27,Non-current liabilities:,,
+32,(Blank),,
+33,Commitments and contingencies,,
+34,(Blank),,
+35,Shareholders' equity:,,
+38,Accumulated other comprehensive income/(loss),-406,-584
