@@ -34,13 +34,6 @@
       "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
     },
     {
-      "reportName": "Nike Income statement",
-      "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.csv",
-      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20income%20statement/Nike-income%20statement.json"
-    },
-    {
       "reportName": "Apple Balance sheet",
       "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
       "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
