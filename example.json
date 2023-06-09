@@ -87,13 +87,6 @@
   ],
   "Others": [
     {
-      "reportName": "Sales Dashboard",
-      "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.png",
-      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.csv",
-      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Sales%20Dashboard/sales.json"
-    },
-    {
       "reportName": "Demo Forbes 40 yrs",
       "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
       "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/inforiver-demo-forbes-billionaires-image.png",
