@@ -1,55 +1,39 @@
-"Index","(In millions, except per share data)","Group 1","Value Column Name","Value"
-"1","Revenues","YEAR ENDED MAY 31,","2020","37403"
-"1","Revenues","YEAR ENDED MAY 31,","2019","39117"
-"1","Revenues","YEAR ENDED MAY 31,","2018","36397"
-"2","Cost of sales","YEAR ENDED MAY 31,","2020","21162"
-"2","Cost of sales","YEAR ENDED MAY 31,","2019","21643"
-"2","Cost of sales","YEAR ENDED MAY 31,","2018","20441"
-"3","Gross profit","YEAR ENDED MAY 31,","2020","16241"
-"3","Gross profit","YEAR ENDED MAY 31,","2019","17474"
-"3","Gross profit","YEAR ENDED MAY 31,","2018","15956"
-"6","Total selling and administrative expense","YEAR ENDED MAY 31,","2020","13126"
-"6","Total selling and administrative expense","YEAR ENDED MAY 31,","2019","12702"
-"6","Total selling and administrative expense","YEAR ENDED MAY 31,","2018","11511"
-"5","Operating overhead expense","YEAR ENDED MAY 31,","2020","9534"
-"5","Operating overhead expense","YEAR ENDED MAY 31,","2019","8949"
-"5","Operating overhead expense","YEAR ENDED MAY 31,","2018","7934"
-"4","Demand creation expense","YEAR ENDED MAY 31,","2020","3592"
-"4","Demand creation expense","YEAR ENDED MAY 31,","2019","3753"
-"4","Demand creation expense","YEAR ENDED MAY 31,","2018","3577"
-"9","Income before income taxes","YEAR ENDED MAY 31,","2020","2887"
-"9","Income before income taxes","YEAR ENDED MAY 31,","2019","4801"
-"9","Income before income taxes","YEAR ENDED MAY 31,","2018","4325"
-"11","NET INCOME","YEAR ENDED MAY 31,","2020","2539"
-"11","NET INCOME","YEAR ENDED MAY 31,","2019","4029"
-"11","NET INCOME","YEAR ENDED MAY 31,","2018","1933"
-"17","Diluted","YEAR ENDED MAY 31,","2020","1591.6"
-"17","Diluted","YEAR ENDED MAY 31,","2019","1618.4"
-"17","Diluted","YEAR ENDED MAY 31,","2018","1659.1"
-"16","Basic","YEAR ENDED MAY 31,","2020","1558.8"
-"16","Basic","YEAR ENDED MAY 31,","2019","1579.7"
-"16","Basic","YEAR ENDED MAY 31,","2018","1623.8"
-"10","Income tax expense","YEAR ENDED MAY 31,","2020","348"
-"10","Income tax expense","YEAR ENDED MAY 31,","2019","772"
-"10","Income tax expense","YEAR ENDED MAY 31,","2018","2392"
-"8","Other (income) expense, net","YEAR ENDED MAY 31,","2020","139"
-"8","Other (income) expense, net","YEAR ENDED MAY 31,","2019","-78"
-"8","Other (income) expense, net","YEAR ENDED MAY 31,","2018","66"
-"7","Interest expense (income), net","YEAR ENDED MAY 31,","2020","89"
-"7","Interest expense (income), net","YEAR ENDED MAY 31,","2019","49"
-"7","Interest expense (income), net","YEAR ENDED MAY 31,","2018","54"
-"13","Basic","YEAR ENDED MAY 31,","2020","1.63"
-"13","Basic","YEAR ENDED MAY 31,","2019","2.55"
-"13","Basic","YEAR ENDED MAY 31,","2018","1.19"
-"14","Diluted","YEAR ENDED MAY 31,","2020","1.6"
-"14","Diluted","YEAR ENDED MAY 31,","2019","2.49"
-"14","Diluted","YEAR ENDED MAY 31,","2018","1.17"
-"(Blank)","(Blank)","YEAR ENDED MAY 31,","2020",
-"(Blank)","(Blank)","YEAR ENDED MAY 31,","2019",
-"(Blank)","(Blank)","YEAR ENDED MAY 31,","2018",
-"12","Earnings per common share:","YEAR ENDED MAY 31,","2020",
-"12","Earnings per common share:","YEAR ENDED MAY 31,","2019",
-"12","Earnings per common share:","YEAR ENDED MAY 31,","2018",
-"15","Weighted average common shares outstanding:","YEAR ENDED MAY 31,","2020",
-"15","Weighted average common shares outstanding:","YEAR ENDED MAY 31,","2019",
-"15","Weighted average common shares outstanding:","YEAR ENDED MAY 31,","2018",
+BS.Index,BS.(In millions),Sum(BS.2020),Sum(BS.2019)
+14,TOTAL ASSETS,31342,23717
+37,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,31342,23717
+8,Total current assets,20556,16525
+24,Long-term debt,9406,3464
+3,Cash and equivalents,8348,4466
+33,Capital in excess of stated value,8299,7163
+23,Total current liabilities,8284,7866
+36,Total shareholders' equity,8055,9040
+6,Inventories,7367,5622
+21,Accrued liabilities,5184,5010
+9,"Property, plant and equipment, net",4866,4744
+10,"Operating lease right-of-use assets, net",3097,0
+25,Operating lease liabilities,2913,0
+5,"Accounts receivable, net",2749,4272
+26,Deferred income taxes and other liabilities,2684,3347
+13,Deferred income taxes and other assets,2326,2011
+19,Accounts payable,2248,2612
+7,Prepaid expenses and other current assets,1653,1968
+20,Current portion of operating lease liabilities,445,0
+4,Short-term investments,439,197
+11,"Identifiable intangible assets, net",274,283
+18,Notes payable,248,9
+12,Goodwill,223,154
+22,Income taxes payable,156,229
+17,Current portion of long-term debt,3,6
+32,"Class B - 1,243 and 1,253 shares outstanding",3,3
+28,Redeemable preferred stock,0,0
+31,Class A convertible - 315 and 315 shares outstanding,0,0
+(Blank),(Blank),,
+1,ASSETS,,
+2,Current assets:,,
+15,LIABILITIES AND SHAREHOLDERS' EQUITY,,
+16,Current liabilities:,,
+27,Commitments and contingencies (Note 18),,
+29,Shareholders' equity:,,
+30,Common stock at stated value:,,
+34,Accumulated other comprehensive income (loss),-56,231
+35,Retained earnings (deficit),-191,1643
