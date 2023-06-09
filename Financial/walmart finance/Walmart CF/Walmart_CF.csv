@@ -16,7 +16,54 @@
 "42","Cash, cash equivalents and restricted cash at beginning of year","Fiscal Years Ended January 31,","2018","7144"
 "29","Proceeds from issuance of long-term debt","Fiscal Years Ended January 31,","2020","5492"
 "29","Proceeds from issuance of long-term debt","Fiscal Years Ended January 31,","2019","15872"
-"29","Proceeds from issuance of long-term debt","Fiscal Years Ended January 31,","2018","7476"
+"29","Proceeds from issuance of long-term debt","Fiscal Years Ended January 31,","2018","7476"CF.Index,CF.(Amounts in millions),Sum(CF.2020),Sum(CF.2019),Sum(CF.2018)
+17,Net cash provided by operating activities,25255,27753,28337
+2,Consolidated net income,15201,7179,10523
+4,Depreciation and amortization,10987,10678,10529
+43,"Cash, cash equivalents and restricted cash at end of year",9515,7756,7014
+42,"Cash, cash equivalents and restricted cash at beginning of year",7756,7014,7144
+29,Proceeds from issuance of long-term debt,5492,15872,7476
+46,Income taxes paid,3616,3982,6179
+47,Interest paid,2464,2348,2450
+10,Other operating activities,1981,1734,1210
+41,"Net increase (decrease) in cash, cash equivalents and restricted cash",1759,742,-130
+22,Proceeds from the disposal of certain operations,833,876,1046
+24,Other investing activities,479,-431,-77
+21,Proceeds from the disposal of property and equipment,321,519,378
+8,Deferred income taxes,320,-499,-304
+15,Accrued liabilities,186,183,928
+12,"Receivables, net",154,-368,-1074
+6,(Gains) and losses for disposal of business operations,15,4850,0
+9,Loss on extinguishment of debt,0,0,3136
+31,Premiums paid to extinguish debt,0,0,-3059
+35,Purchase of noncontrolling interest,0,0,-8
+1,Cash flows from operating activities:,,,
+3,Adjustments to reconcile consolidated net income to net cash provided by operating activities:,,,
+11,"Changes in certain assets and liabilities, net of effects of acquisitions:",,,
+18,(Blank),,,
+19,Cash flows from investing activities:,,,
+26,(Blank),,,
+27,Cash flows from financing activities:,,,
+38,(Blank),,,
+40,(Blank),,,
+44,(Blank),,,
+45,Supplemental disclosure of cash flow information:,,,
+23,"Payments for business acquisitions, net of cash acquired",-56,-14656,-375
+39,"Effect of exchange rates on cash, cash equivalents and restricted cash",-69,-438,487
+16,Accrued income taxes,-93,-40,-557
+14,Accounts payable,-274,1831,4086
+13,Inventories,-300,-1311,-140
+34,Dividends paid to noncontrolling interest,-555,-431,-690
+36,Other financing activities,-908,-629,-261
+7,Asda pension contribution,-1036,0,0
+5,Unrealized (gains) and losses,-1886,3516,0
+30,Repayments of long-term debt,-1907,-3784,-13061
+28,Net change in short-term borrowings,-4656,-53,4148
+33,Purchase of Company stock,-5717,-7410,-8296
+32,Dividends paid,-6048,-6102,-6124
+25,Net cash used in investing activities,-9128,-24036,-9079
+20,Payments for property and equipment,-10705,-10344,-10051
+37,Net cash used in financing activities,-14299,-2537,-19875
 "46","Income taxes paid","Fiscal Years Ended January 31,","2020","3616"
 "46","Income taxes paid","Fiscal Years Ended January 31,","2019","3982"
 "46","Income taxes paid","Fiscal Years Ended January 31,","2018","6179"
