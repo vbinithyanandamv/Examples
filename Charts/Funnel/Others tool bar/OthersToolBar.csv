@@ -1,0 +1,6 @@
+financials.Segment	Sum(financials. Sales)	Sum(financials.COGS)
+Government	52504260.67	41116087.5
+Small Business	42427918.5	38284750
+Enterprise	19611694.38	20226240
+Midmarket	2381883.075	1721780
+Channel Partners	1800593.64	483790.5

@@ -133,30 +133,35 @@
         "reportName": "Horizontal Executive Funnel",
         "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Horizontal%20Executive%20Funnel/inforiver-charts-2.0-exciting-updates-demo-thumbnail-2048x989.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Horizontal%20Executive%20Funnel/Horizontal%20Exexutive%20Funnel.json"
       },
       {
         "reportName": "Combo Funnel",
         "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Combo%20Funnel/Combo%20Funnel.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Combo%20Funnel/Combo%20funnel.json"
       },
       {
         "reportName": "Others Tool Bar",
         "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Others%20tool%20bar/Others%20toolbar%20.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Others%20tool%20bar/Others%20tooolbar.json"
       },
       {
         "reportName": "Small Multiple",
         "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Small%20multiple/Small%20multiples%20.png  ",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Small%20multiple/Small%20multiple.json"
       },
       {
         "reportName": "Conditional Formatting",
         "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/conditional%20formatting/Conditional%20formatting%20.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/conditional%20formatting/Conditional%20formatting.json"
       }
     ],
@@ -165,24 +170,28 @@
         "reportName": "Exploratory Analysis",
         "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Exploratory%20Analysis/Exploratory%20Analysis.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Exploratory%20Analysis/Exploratory%20Analysis.json"
       },
       {
         "reportName": "Measure Driven DataLabel",
         "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/MeasureDrivenDatalabel/Measure%20Driven%20data%20Label.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/MeasureDrivenDatalabel/MeasureDrivenData.json"
       },
       {
         "reportName": "Stacked Chart",
         "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Stacked%20chart/Stacked%20bar%20chart.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Stacked%20chart/StackedChart.json"
       },
       {
         "reportName": "Story Telling Demo",
         "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StoryTelling%20Demo/Story%20tell.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StoryTelling%20Demo/Story%20Telling%20Demo.json"
       },
       {
@@ -196,6 +205,7 @@
         "reportName": "Themes",
         "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Themes/chiarts-feature-demo-image-thumbnail-2048x1161.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Themes/Themes.json"
       }
     ],
@@ -204,36 +214,42 @@
         "reportName": "Cluster Bar Chart",
         "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/ClusterBarChart/Clustered%20bar%20chart.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/ClusterBarChart/Cluster%20bar%20chart%20with%20variance.json"
       },
       {
         "reportName": "Comparison Band",
         "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/Comparison%20Band/Comparison%20Bands%20.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/Comparison%20Band/Comparison%20band.json"
       },
       {
         "reportName": "KPI Card Only",
         "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20card%20only/KPI%20card%20only.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20card%20only/KPI%20card%20only.json"
       },
       {
         "reportName": "KPI dashboard",
         "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20dashboard/KPI%20dashboard%20.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20dashboard/KPI%20dashboard.json"
       },
       {
         "reportName": "Multiple Deviation",
         "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/MultipleDeviation/Multiple%20Deviation.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/MultipleDeviation/Multiple%20deviation.json"
       },
       {
         "reportName": "Slope Graph",
         "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/SlopeGraph/Slope%20graph.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/SlopeGraph/SlopeGraph.json"
       },
       {
@@ -248,24 +264,28 @@
         "reportName": "Conditionally Formatted Bars",
         "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/ConditionallyFormattedBars/Conditionally%20Formatted%20bars.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/ConditionallyFormattedBars/ConditionallyFormattedBars.json"
       },
       {
         "reportName": "Sales Uptrend",
         "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptre",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.json"
       },
       {
         "reportName": "Surplus & Depict",
         "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/Surplus%26Depict/Surplus%20.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/Surplus%26Depict/Surplus%26depict.json"
       },
       {
         "reportName": "World Food Price",
         "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/WorldFoodPrice/Charts-demo-2048x1160.jpg",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/WorldFoodPrice/WorldFoodPrice.json"
       }
     ],
@@ -274,24 +294,28 @@
         "reportName": "Cash Flow Analysis",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/cash%20flow.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/Cash%20Flow%20analysis.json"
       },
       {
         "reportName": "Customer Churn",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/Customer%20Churn.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/Customer%20Churn.json"
       },
       {
         "reportName": "Income Statement",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/income%20statement.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/Income%20statement.json"
       },
       {
         "reportName": "Measure Based Trellis",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Measured%20Based%20Trellis/Measure%20based%20trellis.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Measured%20Based%20Trellis/Measure%20Based%20trellis.json"
       },
       {
@@ -305,12 +329,14 @@
         "reportName": "Revenue",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Revenue/Revenue.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Revenue/Revenue.json"
       },
       {
         "reportName": "Sales Contribution",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Sales%20Contribution/Sales%20Contribution.png",
+        "csvURL":"",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Sales%20Contribution/Sales%20Contribution%20.json"
       }
     ]

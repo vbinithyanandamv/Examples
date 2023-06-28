@@ -1,0 +1,140 @@
+Retail - Orders.State	Retail - Orders.Segment	Sum(Retail - Orders.Sales)	
+Alabama	Consumer	7537.54	24710.66691
+Arizona	Consumer	16424.422	24710.66691
+Arkansas	Consumer	8802.01	24710.66691
+California	Consumer	229636.08	24710.66691
+Colorado	Consumer	15794.492	24710.66691
+Connecticut	Consumer	5933.477	24710.66691
+Delaware	Consumer	16961.763	24710.66691
+District of Columbia	Consumer	2753.34	24710.66691
+Florida	Consumer	32701.196	24710.66691
+Georgia	Consumer	24447.12	24710.66691
+Idaho	Consumer	1444.496	24710.66691
+Illinois	Consumer	45182.195	24710.66691
+Indiana	Consumer	14986.96	24710.66691
+Iowa	Consumer	2100.07	24710.66691
+Kansas	Consumer	697.18	24710.66691
+Kentucky	Consumer	20430.72	24710.66691
+Louisiana	Consumer	6174.26	24710.66691
+Maryland	Consumer	10054.013	24710.66691
+Massachusetts	Consumer	11151.54	24710.66691
+Michigan	Consumer	36709.911	24710.66691
+Minnesota	Consumer	19235.18	24710.66691
+Mississippi	Consumer	7688.58	24710.66691
+Missouri	Consumer	5150.92	24710.66691
+Montana	Consumer	898.088	24710.66691
+Nebraska	Consumer	5261.25	24710.66691
+Nevada	Consumer	6584.414	24710.66691
+New Hampshire	Consumer	908.64	24710.66691
+New Jersey	Consumer	13333.982	24710.66691
+New Mexico	Consumer	2186.324	24710.66691
+New York	Consumer	175209.035	24710.66691
+North Carolina	Consumer	29997.226	24710.66691
+North Dakota	Consumer	891.53	24710.66691
+Ohio	Consumer	43194.024	24710.66691
+Oklahoma	Consumer	11561.77	24710.66691
+Oregon	Consumer	8893.933	24710.66691
+Pennsylvania	Consumer	66899.293	24710.66691
+Rhode Island	Consumer	2483.336	24710.66691
+South Carolina	Consumer	5539.75	24710.66691
+South Dakota	Consumer	45.73	24710.66691
+Tennessee	Consumer	16578.939	24710.66691
+Texas	Consumer	95976.378	24710.66691
+Utah	Consumer	7152.004	24710.66691
+Vermont	Consumer	1352.38	24710.66691
+Virginia	Consumer	35683.63	24710.66691
+Washington	Consumer	73866.52	24710.66691
+West Virginia	Consumer	673.344	24710.66691
+Wisconsin	Consumer	14232.36	24710.66691
+Alabama	Corporate	10969.38	15692.14148
+Arizona	Corporate	11736.322	15692.14148
+Arkansas	Corporate	2463.78	15692.14148
+California	Corporate	147174.7265	15692.14148
+Colorado	Corporate	9945.912	15692.14148
+Connecticut	Corporate	5715.69	15692.14148
+Delaware	Corporate	8311.656	15692.14148
+Florida	Corporate	22477.5915	15692.14148
+Georgia	Corporate	15982.25	15692.14148
+Idaho	Corporate	2630.25	15692.14148
+Illinois	Corporate	15984.28	15692.14148
+Indiana	Corporate	31788.74	15692.14148
+Iowa	Corporate	911.45	15692.14148
+Kansas	Corporate	898.18	15692.14148
+Kentucky	Corporate	7927.83	15692.14148
+Louisiana	Corporate	1882.35	15692.14148
+Maine	Corporate	1164.45	24710.66691
+Maryland	Corporate	11386.13	15692.14148
+Massachusetts	Corporate	9639.594	15692.14148
+Michigan	Corporate	23391.553	15692.14148
+Minnesota	Corporate	3111.11	15692.14148
+Mississippi	Corporate	1362.72	15692.14148
+Missouri	Corporate	10500.43	15692.14148
+Montana	Corporate	48.188	15692.14148
+Nebraska	Corporate	1266.74	15692.14148
+Nevada	Corporate	4802.406	15692.14148
+New Hampshire	Corporate	968.9	15692.14148
+New Jersey	Corporate	18268.19	15692.14148
+New Mexico	Corporate	1269.776	15692.14148
+New York	Corporate	77951.313	15692.14148
+North Carolina	Corporate	18656.746	15692.14148
+Ohio	Corporate	24209.973	15692.14148
+Oklahoma	Corporate	2569.75	15692.14148
+Oregon	Corporate	6563.97	15692.14148
+Pennsylvania	Corporate	31130.061	15692.14148
+Rhode Island	Corporate	5381.15	15692.14148
+South Carolina	Corporate	2916.04	15692.14148
+South Dakota	Corporate	1269.83	15692.14148
+Tennessee	Corporate	9745.765	15692.14148
+Texas	Corporate	53908.1198	15692.14148
+Utah	Corporate	1956.614	15692.14148
+Vermont	Corporate	6282.24	15692.14148
+Virginia	Corporate	27501.48	15692.14148
+Washington	Corporate	39727.11	15692.14148
+Wisconsin	Corporate	12395.63	15692.14148
+Alabama	Home Office	1003.72	9107.447074
+Arizona	Home Office	7121.257	9107.447074
+Arkansas	Home Office	412.34	9107.447074
+California	Home Office	80876.825	9107.447074
+Colorado	Home Office	6367.714	9107.447074
+Connecticut	Home Office	1735.19	9107.447074
+Delaware	Home Office	2177.65	9107.447074
+District of Columbia	Home Office	111.68	15692.14148
+Florida	Home Office	34294.9205	9107.447074
+Georgia	Home Office	8666.47	9107.447074
+Idaho	Home Office	307.74	9107.447074
+Illinois	Home Office	18999.626	9107.447074
+Indiana	Home Office	6779.66	9107.447074
+Iowa	Home Office	1568.24	9107.447074
+Kansas	Home Office	1318.95	9107.447074
+Kentucky	Home Office	8233.2	9107.447074
+Louisiana	Home Office	1160.42	9107.447074
+Maine	Home Office	106.08	15692.14148
+Maryland	Home Office	2265.38	9107.447074
+Massachusetts	Home Office	7843.3	9107.447074
+Michigan	Home Office	16168.15	9107.447074
+Minnesota	Home Office	7516.86	9107.447074
+Mississippi	Home Office	1720.04	9107.447074
+Missouri	Home Office	6553.8	9107.447074
+Montana	Home Office	4643.076	9107.447074
+Nebraska	Home Office	936.94	9107.447074
+Nevada	Home Office	5342.282	9107.447074
+New Hampshire	Home Office	5414.984	9107.447074
+New Jersey	Home Office	4162.14	9107.447074
+New Mexico	Home Office	1327.422	9107.447074
+New York	Home Office	57715.923	9107.447074
+North Carolina	Home Office	6949.192	9107.447074
+North Dakota	Home Office	28.38	15692.14148
+Ohio	Home Office	10854.139	9107.447074
+Oklahoma	Home Office	5551.87	9107.447074
+Oregon	Home Office	1973.247	9107.447074
+Pennsylvania	Home Office	18482.56	9107.447074
+Rhode Island	Home Office	14763.47	9107.447074
+South Carolina	Home Office	25.92	9107.447074
+Tennessee	Home Office	4337.169	9107.447074
+Texas	Home Office	20303.548	9107.447074
+Utah	Home Office	2111.438	9107.447074
+Vermont	Home Office	1294.75	9107.447074
+Virginia	Home Office	7451.61	9107.447074
+Washington	Home Office	25047.64	9107.447074
+West Virginia	Home Office	536.48	15692.14148
+Wisconsin	Home Office	5486.62	9107.447074

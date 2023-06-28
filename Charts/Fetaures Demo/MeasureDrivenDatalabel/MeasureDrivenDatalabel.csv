@@ -1,0 +1,85 @@
+SA Covid Data.Group	SA Covid Data.Wave	SA Covid Data.Days 	Sum(SA Covid Data.in %)
+Cases	Beta wave	0	0
+Cases	Delta wave	0	0
+Cases	First wave	0	0
+Cases	Omicron wave	0	0
+Deaths	Beta wave	0	0
+Deaths	Delta wave	0	0
+Deaths	First wave	0	0
+Deaths	Omicron wave	0	0
+Excess deaths	Beta wave	0	4
+Excess deaths	Delta wave	0	4
+Excess deaths	First wave	0	0
+Excess deaths	Omicron wave	0	4
+Hospital admissions	Beta wave	0	0
+Hospital admissions	Delta wave	0	0
+Hospital admissions	First wave	0	0
+Hospital admissions	Omicron wave	0	0
+Cases	Beta wave	30	15
+Cases	Delta wave	30	5
+Cases	First wave	30	5
+Cases	Omicron wave	30	20
+Deaths	Beta wave	30	10
+Deaths	Delta wave	30	5
+Deaths	First wave	30	5
+Deaths	Omicron wave	30	4
+Excess deaths	Beta wave	30	20
+Excess deaths	Delta wave	30	10
+Excess deaths	First wave	30	5
+Excess deaths	Omicron wave	30	10
+Hospital admissions	Beta wave	30	20
+Hospital admissions	Delta wave	30	10
+Hospital admissions	First wave	30	10
+Hospital admissions	Omicron wave	30	10
+Cases	Beta wave	60	50
+Cases	Delta wave	60	30
+Cases	First wave	60	30
+Cases	Omicron wave	60	45
+Deaths	Beta wave	60	40
+Deaths	Delta wave	60	20
+Deaths	First wave	60	20
+Deaths	Omicron wave	60	10
+Excess deaths	Beta wave	60	60
+Excess deaths	Delta wave	60	20
+Excess deaths	First wave	60	20
+Excess deaths	Omicron wave	60	21
+Hospital admissions	Beta wave	60	30
+Hospital admissions	Delta wave	60	30
+Hospital admissions	First wave	60	30
+Hospital admissions	Omicron wave	60	30
+Cases	Beta wave	90	58
+Cases	Delta wave	90	65
+Cases	First wave	90	43
+Deaths	Beta wave	90	78
+Deaths	Delta wave	90	60
+Deaths	First wave	90	40
+Excess deaths	Beta wave	90	90
+Excess deaths	Delta wave	90	60
+Excess deaths	First wave	90	40
+Hospital admissions	Beta wave	90	70
+Hospital admissions	Delta wave	90	70
+Hospital admissions	First wave	90	50
+Cases	Beta wave	120	60
+Cases	Delta wave	120	90
+Cases	First wave	120	46
+Deaths	Beta wave	120	82
+Deaths	Delta wave	120	90
+Deaths	First wave	120	45
+Excess deaths	Beta wave	120	95
+Excess deaths	Delta wave	120	80
+Excess deaths	First wave	120	43
+Hospital admissions	Beta wave	120	80
+Hospital admissions	Delta wave	120	90
+Hospital admissions	First wave	120	57
+Cases	Beta wave	150	63
+Cases	Delta wave	150	100
+Cases	First wave	150	50
+Deaths	Beta wave	150	87
+Deaths	Delta wave	150	100
+Deaths	First wave	150	50
+Excess deaths	Beta wave	150	100
+Excess deaths	Delta wave	150	100
+Excess deaths	First wave	150	45
+Hospital admissions	Beta wave	150	83
+Hospital admissions	Delta wave	150	100
+Hospital admissions	First wave	150	62

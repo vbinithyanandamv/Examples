@@ -1,0 +1,6 @@
+new sales.Source	Sum(new sales.2017 sales)	Sum(new sales.2016 sales)	
+Desktop -> multichannel	15	-13.2	-13.2,0,-13.2
+Multichannel	16	6.4	6.4,-13.2,-6.799999999999999
+Mobile-only	14	9.8	9.8,-6.799999999999999,3.0000000000000018
+Multichannel -> desktop	14.5	27.5	27.5,3.0000000000000018,30.5
+Desktop-only	14.3	19.7	19.7,30.5,50.2

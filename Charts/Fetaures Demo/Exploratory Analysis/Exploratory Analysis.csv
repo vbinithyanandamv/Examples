@@ -1,0 +1,189 @@
+Product.Quarter	Product.Category Hierarchy.Category	Product.Category Hierarchy.Sub Category	Product.Region Hierarchy.Region	Product.Region Hierarchy.Sub Region	Sum(Product.Sales)	Sum(Product.PY Sales)	Sum(Product.Target)
+Q1	Beverages	Juices	United States	East	29027106.63	16359946.28	25163886.14
+Q2	Beverages	Juices	United States	East	29494248.23	24768363.5	29972795.48
+Q3	Beverages	Juices	United States	East	22181114.5	23913755.06	33128589.64
+Q4	Beverages	Juices	United States	East	18989640.37	18406242.9	22754050.69
+Q1	Beverages	Juices	United States	Pacific	12836838.66	16088708.8	17738666.78
+Q2	Beverages	Juices	United States	Pacific	14822864.29	16450540.02	23176953.56
+Q3	Beverages	Juices	United States	Pacific	24731122.47	17931520.75	20280239.27
+Q4	Beverages	Juices	United States	Pacific	15129931.33	15677362.95	19061427.39
+Q1	Beverages	Juices	United States	Central	13669512.08	9947835.93	11067252.57
+Q2	Beverages	Juices	United States	Central	21989414.25	14239792.43	13919773.89
+Q3	Beverages	Juices	United States	Central	9333207.9	13496104.99	12812079.83
+Q4	Beverages	Juices	United States	Central	8636379.82	12610950.95	15174556.59
+Q1	Beverages	Juices	United States	Midwest	6065403	11780722.53	11208742.48
+Q2	Beverages	Juices	United States	Midwest	17167862.15	10895873.66	15541490.24
+Q3	Beverages	Juices	United States	Midwest	22474196	14778924.22	16478201.33
+Q4	Beverages	Juices	United States	Midwest	7458628.42	12716665.91	9245873.09
+Q1	Beverages	Juices	United States		61598860.37	54177213.54	65178547.97
+Q2	Beverages	Juices	United States		83474388.92	66354569.61	82611013.17
+Q3	Beverages	Juices	United States		78719640.87	70120305.02	82699110.07
+Q4	Beverages	Juices	United States		50214579.94	59411222.71	66235907.76
+Q1	Beverages	Juices	International	EMEA	27353466.09	22709522.86	25968246.78
+Q2	Beverages	Juices	International	EMEA	34070805.13	29920114.27	38906966.2
+Q3	Beverages	Juices	International	EMEA	24037898.51	26390657.12	25155206.85
+Q4	Beverages	Juices	International	EMEA	24337685.44	25411323.13	27865075.09
+Q1	Beverages	Juices	International	APAC	13165111.81	10034347.11	12106329.58
+Q2	Beverages	Juices	International	APAC	12936358.36	15171430.16	15320656.06
+Q3	Beverages	Juices	International	APAC	14875940.9	12027791.27	17477104.43
+Q4	Beverages	Juices	International	APAC	13168821.77	12620554.65	14801840.14
+Q1	Beverages	Juices	International		40518577.9	32743869.97	38074576.36
+Q2	Beverages	Juices	International		47007163.49	45091544.43	54227622.26
+Q3	Beverages	Juices	International		38913839.41	38418448.39	42632311.28
+Q4	Beverages	Juices	International		37506507.21	38031877.78	42666915.23
+Q1	Beverages	Juices			102117438.3	86921083.51	103253124.3
+Q2	Beverages	Juices			130481552.4	111446114	136838635.4
+Q3	Beverages	Juices			117633480.3	108538753.4	125331421.3
+Q4	Beverages	Juices			87721087.15	97443100.49	108902823
+Q1	Beverages	Soda	United States	East	15660983.29	21441340.55	15158976.74
+Q2	Beverages	Soda	United States	East	15094313.29	13263695.59	20035355.67
+Q3	Beverages	Soda	United States	East	19162227.09	19337810.01	19005601.27
+Q4	Beverages	Soda	United States	East	15245156.41	22666082.06	19224463.16
+Q1	Beverages	Soda	United States	Pacific	10695411.08	10562679.33	9515182.98
+Q2	Beverages	Soda	United States	Pacific	8308866.22	10007593.31	10514083.17
+Q3	Beverages	Soda	United States	Pacific	10318199.29	13253804.21	14253994.63
+Q4	Beverages	Soda	United States	Pacific	10199519.4	8045890.67	10117478.46
+Q1	Beverages	Soda	United States	Central	5504348.75	7223117.81	6751311.83
+Q2	Beverages	Soda	United States	Central	8424077.28	12045378.18	9073483.09
+Q3	Beverages	Soda	United States	Central	13126080.92	11663479.05	15639801.27
+Q4	Beverages	Soda	United States	Central	6588193.14	8098831.72	4814589.73
+Q1	Beverages	Soda	United States	Midwest	6215211.44	4810400.97	4092942.41
+Q2	Beverages	Soda	United States	Midwest	4861713.87	5742352.32	7582835.36
+Q3	Beverages	Soda	United States	Midwest	5800560.12	6173314.85	8180788.54
+Q4	Beverages	Soda	United States	Midwest	7319905.82	5367249.39	5048978.38
+Q1	Beverages	Soda	United States		38075954.56	44037538.66	35518413.96
+Q2	Beverages	Soda	United States		36688970.66	41059019.4	47205757.29
+Q3	Beverages	Soda	United States		48407067.42	50428408.12	57080185.71
+Q4	Beverages	Soda	United States		39352774.77	44178053.84	39205509.73
+Q1	Beverages	Soda	International	EMEA	19369557.96	17042272.33	19559866.35
+Q2	Beverages	Soda	International	EMEA	23552339.39	17943662.92	20145892.25
+Q3	Beverages	Soda	International	EMEA	30419068.03	26609007.72	29981758.94
+Q4	Beverages	Soda	International	EMEA	20181891.75	17485730.18	24686042.57
+Q1	Beverages	Soda	International	APAC	9427086.75	8055097.11	7422838.84
+Q2	Beverages	Soda	International	APAC	11552639.36	11916140.68	11686790.04
+Q3	Beverages	Soda	International	APAC	14238730.51	11369189.16	15643169.43
+Q4	Beverages	Soda	International	APAC	11237436.07	7217202.8	10452546.89
+Q1	Beverages	Soda	International		28796644.71	25097369.44	26982705.19
+Q2	Beverages	Soda	International		35104978.75	29859803.6	31832682.29
+Q3	Beverages	Soda	International		44657798.54	37978196.88	45624928.37
+Q4	Beverages	Soda	International		31419327.82	24702932.98	35138589.46
+Q1	Beverages	Soda			66872599.27	69134908.1	62501119.15
+Q2	Beverages	Soda			71793949.41	70918823	79038439.58
+Q3	Beverages	Soda			93064865.96	88406605	102705114.1
+Q4	Beverages	Soda			70772102.59	68880986.82	74344099.19
+Q1	Beverages	Tea & Coffee	United States	East	3747273.57	2377435.14	-238333.4
+Q2	Beverages	Tea & Coffee	United States	East	7910344.57	7916774.82	5724656.88
+Q3	Beverages	Tea & Coffee	United States	East	7976467.16	9996892.48	9265940.31
+Q4	Beverages	Tea & Coffee	United States	East	2957222.91	2499212.07	2155958.66
+Q1	Beverages	Tea & Coffee	United States	Pacific	3318539.28	2673377.21	2294063.53
+Q2	Beverages	Tea & Coffee	United States	Pacific	7599544.85	4427027.02	4440995.33
+Q3	Beverages	Tea & Coffee	United States	Pacific	3997740.24	6250292.99	3863060.96
+Q4	Beverages	Tea & Coffee	United States	Pacific	909891.1	3034806.11	2082157.49
+Q1	Beverages	Tea & Coffee	United States	Central	1678831.97	1796100.27	2281021.26
+Q2	Beverages	Tea & Coffee	United States	Central	3939143.78	2601416.73	2397825.19
+Q3	Beverages	Tea & Coffee	United States	Central	4684895.31	3261104.87	4835484.15
+Q4	Beverages	Tea & Coffee	United States	Central	3139629.03	2587941.42	2236600.37
+Q1	Beverages	Tea & Coffee	United States	Midwest	2414942.75	1417507.37	2967649.55
+Q2	Beverages	Tea & Coffee	United States	Midwest	4048976.58	3215061.26	3074218.15
+Q3	Beverages	Tea & Coffee	United States	Midwest	2654742.52	2604298.98	3254886.52
+Q4	Beverages	Tea & Coffee	United States	Midwest	1836196.94	590701.91	1090176.58
+Q1	Beverages	Tea & Coffee	United States		11159587.57	8264419.99	7304400.94
+Q2	Beverages	Tea & Coffee	United States		23498009.78	18160279.83	15637695.55
+Q3	Beverages	Tea & Coffee	United States		19313845.23	22112589.32	21219371.94
+Q4	Beverages	Tea & Coffee	United States		8842939.98	8712661.51	7564893.1
+Q1	Beverages	Tea & Coffee	International	EMEA	5364038.08	5633448.02	5280920.05
+Q2	Beverages	Tea & Coffee	International	EMEA	9777770.76	9458541.57	8317503.95
+Q3	Beverages	Tea & Coffee	International	EMEA	9729554.04	11018682	9329338.51
+Q4	Beverages	Tea & Coffee	International	EMEA	6236933.54	4370823.12	4104261.84
+Q1	Beverages	Tea & Coffee	International	APAC	2359002.61	2504633.16	1112296.06
+Q2	Beverages	Tea & Coffee	International	APAC	2949476	3793439.14	2646743.44
+Q3	Beverages	Tea & Coffee	International	APAC	3517728.99	3986523.37	4340869.42
+Q4	Beverages	Tea & Coffee	International	APAC	2100766.17	2195767.65	2668800.72
+Q1	Beverages	Tea & Coffee	International		7723040.69	8138081.18	6393216.11
+Q2	Beverages	Tea & Coffee	International		12727246.76	13251980.71	10964247.39
+Q3	Beverages	Tea & Coffee	International		13247283.03	15005205.37	13670207.93
+Q4	Beverages	Tea & Coffee	International		8337699.71	6566590.77	6773062.56
+Q1	Beverages	Tea & Coffee			18882628.26	16402501.17	13697617.05
+Q2	Beverages	Tea & Coffee			36225256.54	31412260.54	26601942.94
+Q3	Beverages	Tea & Coffee			32561128.26	37117794.69	34889579.87
+Q4	Beverages	Tea & Coffee			17180639.69	15279252.28	14337955.66
+Q1	Beverages				187872665.8	172458492.8	179451860.5
+Q2	Beverages				238500758.4	213777197.6	242479018
+Q3	Beverages				243259474.5	234063153.1	262926115.3
+Q4	Beverages				175673829.4	181603339.6	197584877.8
+Q1	Water	Mineral Water	United States	East	16340389.57	14946741.05	16487035.67
+Q2	Water	Mineral Water	United States	East	18679283.96	16840604.57	16515849.09
+Q3	Water	Mineral Water	United States	East	17860676.38	19761001.49	19830465.72
+Q4	Water	Mineral Water	United States	East	14939472.68	15007742.64	16543580.45
+Q1	Water	Mineral Water	United States	Pacific	12263793.65	10018127.3	9668072.56
+Q2	Water	Mineral Water	United States	Pacific	13951004.31	11263512.47	11558844.33
+Q3	Water	Mineral Water	United States	Pacific	9904187.5	11716471.28	11798681.65
+Q4	Water	Mineral Water	United States	Pacific	8220144.51	10168371.52	10620538.69
+Q1	Water	Mineral Water	United States	Central	5986884.78	4688000.4	5305172.6
+Q2	Water	Mineral Water	United States	Central	7698052.07	8424575.57	8267848.73
+Q3	Water	Mineral Water	United States	Central	8912067.47	8021550.48	8142453.76
+Q4	Water	Mineral Water	United States	Central	7316245.55	5284988.46	6085015.02
+Q1	Water	Mineral Water	United States	Midwest	5603158.08	4975679.41	4725818.21
+Q2	Water	Mineral Water	United States	Midwest	6868124.37	5749824.86	5918441.26
+Q3	Water	Mineral Water	United States	Midwest	5504215.21	6305573.37	6748249.36
+Q4	Water	Mineral Water	United States	Midwest	5722874.59	5308176.38	4684791.11
+Q1	Water	Mineral Water	United States		40194226.08	34628548.16	36186099.04
+Q2	Water	Mineral Water	United States		47196464.71	42278517.47	42260983.41
+Q3	Water	Mineral Water	United States		42181146.56	45804596.62	46519850.49
+Q4	Water	Mineral Water	United States		36198737.33	35769279	37933925.27
+Q1	Water	Mineral Water	International	EMEA	15198462.4	13546781.74	13920980.58
+Q2	Water	Mineral Water	International	EMEA	16003315.49	16698642.56	18139469.89
+Q3	Water	Mineral Water	International	EMEA	17915018.1	19388907.94	19843321.06
+Q4	Water	Mineral Water	International	EMEA	14281807.8	15424078.07	14990681.22
+Q1	Water	Mineral Water	International	APAC	7935436.61	6659851.03	7383858.88
+Q2	Water	Mineral Water	International	APAC	9947971.83	7735580.89	8736278.8
+Q3	Water	Mineral Water	International	APAC	9086780.84	9323025.13	9658421.2
+Q4	Water	Mineral Water	International	APAC	8143752.86	6834762.91	7432542.66
+Q1	Water	Mineral Water	International		23133899.01	20206632.77	21304839.46
+Q2	Water	Mineral Water	International		25951287.32	24434223.45	26875748.69
+Q3	Water	Mineral Water	International		27001798.94	28711933.07	29501742.26
+Q4	Water	Mineral Water	International		22425560.66	22258840.98	22423223.88
+Q1	Water	Mineral Water			63328125.09	54835180.93	57490938.5
+Q2	Water	Mineral Water			73147752.03	66712740.92	69136732.1
+Q3	Water	Mineral Water			69182945.5	74516529.69	76021592.75
+Q4	Water	Mineral Water			58624297.99	58028119.98	60357149.15
+Q1	Water	Sparkling Water	United States	East	3580923.63	3727374.38	3663871.45
+Q2	Water	Sparkling Water	United States	East	3243967.87	2808333.59	2870938.94
+Q3	Water	Sparkling Water	United States	East	3384367.34	2701821.65	2167713.79
+Q4	Water	Sparkling Water	United States	East	4020255.97	3424810.81	2971166.12
+Q1	Water	Sparkling Water	United States	Pacific	1400557.23	1826094	2009072.6
+Q2	Water	Sparkling Water	United States	Pacific	1275414.1	1887326.76	1998432.71
+Q3	Water	Sparkling Water	United States	Pacific	1528692.52	1674510.07	1384518.03
+Q4	Water	Sparkling Water	United States	Pacific	2179084.3	1991361.15	2238249.3
+Q1	Water	Sparkling Water	United States	Midwest	1154105.51	1181937.59	1140065.85
+Q2	Water	Sparkling Water	United States	Midwest	954721.78	999701	1054231.06
+Q3	Water	Sparkling Water	United States	Midwest	1024201.73	989725.75	899917.95
+Q4	Water	Sparkling Water	United States	Midwest	1450982.33	1279078.22	1129447.52
+Q1	Water	Sparkling Water	United States	Central	1427010.19	1389217.17	1358587.24
+Q2	Water	Sparkling Water	United States	Central	1227814.62	1038136.21	901534.26
+Q3	Water	Sparkling Water	United States	Central	828464.4	976229.26	1113545.06
+Q4	Water	Sparkling Water	United States	Central	1022615.48	1328611.94	1391114.61
+Q1	Water	Sparkling Water	United States		7562596.56	8124623.14	8171597.14
+Q2	Water	Sparkling Water	United States		6701918.37	6733497.56	6825136.97
+Q3	Water	Sparkling Water	United States		6765725.99	6342286.73	5565694.83
+Q4	Water	Sparkling Water	United States		8672938.08	8023862.12	7729977.55
+Q1	Water	Sparkling Water	International	EMEA	4149451.5	2745770.09	2655907.69
+Q2	Water	Sparkling Water	International	EMEA	3351926.71	2861266.61	2679515.51
+Q3	Water	Sparkling Water	International	EMEA	2701839.79	2501934.9	2314501.05
+Q4	Water	Sparkling Water	International	EMEA	2807167.18	3166958.23	2991690.04
+Q1	Water	Sparkling Water	International	APAC	1454868.69	1339207.22	1537687.31
+Q2	Water	Sparkling Water	International	APAC	1063910.05	1008027.81	988148.87
+Q3	Water	Sparkling Water	International	APAC	1183448.36	1008039.12	907987.92
+Q4	Water	Sparkling Water	International	APAC	1359679.16	1490632.04	1428526.33
+Q1	Water	Sparkling Water	International		5604320.19	4084977.31	4193595
+Q2	Water	Sparkling Water	International		4415836.76	3869294.42	3667664.38
+Q3	Water	Sparkling Water	International		3885288.15	3509974.02	3222488.97
+Q4	Water	Sparkling Water	International		4166846.34	4657590.27	4420216.37
+Q1	Water	Sparkling Water			13166916.75	12209600.45	12365192.14
+Q2	Water	Sparkling Water			11117755.13	10602791.98	10492801.35
+Q3	Water	Sparkling Water			10651014.14	9852260.75	8788183.8
+Q4	Water	Sparkling Water			12839784.42	12681452.39	12150193.92
+Q1	Water				76495041.84	67044781.38	69856130.64
+Q2	Water				84265507.16	77315532.9	79629533.45
+Q3	Water				79833959.64	84368790.44	84809776.55
+Q4	Water				71464082.41	70709572.37	72507343.07

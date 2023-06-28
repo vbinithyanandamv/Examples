@@ -1,0 +1,17 @@
+Country wise sales.Country of origin	Table1 (2).Measure Names	Sum(Country wise sales.Measure Values)	
+Brazil	Click on Page	816	773.5
+Canada	Click on Page	804	773.5
+Europe	Click on Page	694	773.5
+USA	Click on Page	780	773.5
+Brazil	Viewing Product	630	619
+Canada	Viewing Product	650	619
+Europe	Viewing Product	538	619
+USA	Viewing Product	658	619
+Brazil	Add to Cart	234	252.5
+Canada	Add to Cart	264	252.5
+Europe	Add to Cart	212	252.5
+USA	Add to Cart	300	252.5
+Brazil	Purchase_Made	30	28
+Canada	Purchase_Made	38	28
+Europe	Purchase_Made	18	28
+USA	Purchase_Made	26	28

@@ -1,0 +1,6 @@
+Table1.Funnel Stage	Sum(Sales.Value)
+Lead	7745
+Opportunity	5468
+Qualified	4238
+Sold	2025
+Retained	1520

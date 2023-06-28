@@ -1,0 +1,9 @@
+Measures as Rows	Retail - Orders.Order Date.Variation.Date Hierarchy.Quarter	Sum(Retail - Orders.Sales)	
+Sum of Sales	Qtr 1	513869.5928	513869.5928,0,513869.5928
+Sum of Quantity	Qtr 1	7477	7477,0,7477
+Sum of Sales	Qtr 2	458335.0781	458335.0781,513869.5928,972204.6709
+Sum of Quantity	Qtr 2	8274	8,274,747,715,751
+Sum of Sales	Qtr 3	620180.7755	620180.7755,972204.6709,1592385.4464
+Sum of Quantity	Qtr 3	10192	101,921,575,125,943
+Sum of Sales	Qtr 4	704815.4139	704815.4139,1592385.4464,2297200.8603
+Sum of Quantity	Qtr 4	11930	119,302,594,337,873

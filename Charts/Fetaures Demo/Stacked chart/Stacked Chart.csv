@@ -1,0 +1,31 @@
+Product.Sub Category	Product.Sub Region	Sum(Product.Sales)
+Juices	EMEA	109799855.2
+Mineral Water	EMEA	63398603.79
+Soda	EMEA	93522857.13
+Sparkling Water	EMEA	13010385.18
+Tea & Coffee	EMEA	31108296.42
+Juices	East	99692109.73
+Mineral Water	East	67819822.59
+Soda	East	65162680.08
+Sparkling Water	East	14229514.81
+Tea & Coffee	East	22591308.21
+Juices	Pacific	67520756.75
+Mineral Water	Pacific	44339129.97
+Soda	Pacific	39521995.99
+Sparkling Water	Pacific	6383748.15
+Tea & Coffee	Pacific	15825715.47
+Juices	APAC	54146232.84
+Mineral Water	APAC	35113942.14
+Soda	APAC	46455892.69
+Sparkling Water	APAC	5061906.26
+Tea & Coffee	APAC	10926973.77
+Juices	Central	53628514.05
+Mineral Water	Central	29913249.87
+Soda	Central	33642700.09
+Sparkling Water	Central	4505904.69
+Tea & Coffee	Central	13442500.09
+Juices	Midwest	53166089.57
+Mineral Water	Midwest	23698372.25
+Soda	Midwest	24197391.25
+Sparkling Water	Midwest	4584011.35
+Tea & Coffee	Midwest	10954858.79
