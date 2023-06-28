@@ -271,7 +271,7 @@
       {
         "reportName": "Sales Uptrend",
         "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptre",
+        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.png",
         "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.csv",
         "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.json"
       },
