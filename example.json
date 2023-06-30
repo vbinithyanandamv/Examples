@@ -1,345 +1,121 @@
 {
-  "table": {
-    "sections": ["Financials", "Variance", "Others"],
-    "Financials": [
-      {
-        "reportName": "Walmart Balance Sheets",
-        "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
-      },
-      {
-        "reportName": "Walmart Cash Flow",
-        "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF_config.json"
-      },
-      {
-        "reportName": "Nike Balance Sheet",
-        "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-balance%20sheet.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-Balance%20sheet.json"
-      },
-      {
-        "reportName": "Nike cash flow",
-        "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
-      },
-      {
-        "reportName": "Apple Balance sheet",
-        "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balancesheet.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balance%20sheet.json"
-      },
-      {
-        "reportName": "Apple Cash flow",
-        "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.json"
-      }
-    ],
-    "Variance": [
-      {
-        "reportName": "Regional profitability analysis",
-        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitablityanalysis.json"
-      },
-      {
-        "reportName": "Regional profitability analysis T02",
-        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/inforiver-ibcs-t01-t02-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/reginalprofitabilityT02.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/RegionalprofitabilityT02.json"
-      },
-      {
-        "reportName": "Comparitive P&L T03",
-        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparativeP%26L%20T03.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparitiveP%26L%20T03.json"
-      },
-      {
-        "reportName": "Variance P&L T03",
-        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
-      },
-      {
-        "reportName": "Variance P&L T04",
-        "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/inforiver-ibcs-t04-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04%20.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04.json"
-      }
-    ],
-    "Others": [
-      {
-        "reportName": "Demo Forbes 40 yrs",
-        "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/inforiver-demo-forbes-billionaires-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.json"
-      },
-      {
-        "reportName": "Demo Forbes Overall",
-        "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/inforiver-demo-forbes-billionaires-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.json"
-      },
-      {
-        "reportName": "Demo sales & profit Trend",
-        "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/inforiver-demo-forbes-billionaires-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20Profit%20Trend.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20profit%20trend.json"
-      },
-      {
-        "reportName": "Olympics Top 10 teams",
-        "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20top%2010%20teams%20.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20Top%2010%20teams.json"
-      },
-      {
-        "reportName": "Olympics Top Athletes",
-        "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/inforiver-olympics-demo-image.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20Top%20athletes.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20top%20Athletes.json"
-      }
-    ]
-  },
-  "chart": {
-    "sections": [
-      "Funnel",
-      "Features Demo",
-      "Sample",
-      "Waterfall Charts",
-      "Story Telling Sample"
-    ],
-    "Funnel": [
-      {
-        "reportName": "Horizontal Executive Funnel",
-        "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Horizontal%20Executive%20Funnel/inforiver-charts-2.0-exciting-updates-demo-thumbnail-2048x989.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Horizontal%20Executive%20Funnel/HorizontalExecutiveFunnel.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Horizontal%20Executive%20Funnel/Horizontal%20Exexutive%20Funnel.json"
-      },
-      {
-        "reportName": "Combo Funnel",
-        "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Combo%20Funnel/Combo%20Funnel.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Combo%20Funnel/Combo%20funnel.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Combo%20Funnel/Combo%20funnel.json"
-      },
-      {
-        "reportName": "Others Tool Bar",
-        "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Others%20tool%20bar/Others%20toolbar%20.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Others%20tool%20bar/OthersToolBar.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Others%20tool%20bar/Others%20tooolbar.json"
-      },
-      {
-        "reportName": "Small Multiple",
-        "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Small%20multiple/Small%20multiples%20.png  ",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Small%20multiple/SmallMultiples.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/Small%20multiple/Small%20multiple.json"
-      },
-      {
-        "reportName": "Conditional Formatting",
-        "description": "Experience new visualizations like Executive Funnel chart, Stacked and stacked breakdown waterfall, slopegraph along with exciting features",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/conditional%20formatting/Conditional%20formatting%20.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/conditional%20formatting/ConditionalFormatting.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Funnel/conditional%20formatting/Conditional%20formatting.json"
-      }
-    ],
-    "Features Demo": [
-      {
-        "reportName": "Exploratory Analysis",
-        "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Exploratory%20Analysis/Exploratory%20Analysis.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Exploratory%20Analysis/Exploratory%20Analysis.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Exploratory%20Analysis/Exploratory%20Analysis.json"
-      },
-      {
-        "reportName": "Measure Driven DataLabel",
-        "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/MeasureDrivenDatalabel/Measure%20Driven%20data%20Label.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/MeasureDrivenDatalabel/MeasureDrivenDatalabel.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/MeasureDrivenDatalabel/MeasureDrivenData.json"
-      },
-      {
-        "reportName": "Stacked Chart",
-        "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Stacked%20chart/Stacked%20bar%20chart.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Stacked%20chart/Stacked%20Chart.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Stacked%20chart/StackedChart.json"
-      },
-      {
-        "reportName": "Story Telling Demo",
-        "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StoryTelling%20Demo/Story%20tell.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StoryTelling%20Demo/StoryTellingDemo.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StoryTelling%20Demo/Story%20Telling%20Demo.json"
-      },
-      {
-        "reportName": "Story Telling With Small Multiples",
-        "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StorytellingwithSmallMultiples/Story%20telling%20with%20small%20multiples%20.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StorytellingwithSmallMultiples/StoryTellingWithSmallMultiples.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/StorytellingwithSmallMultiples/StorytellingSmallMultiples.json"
-      },
-      {
-        "reportName": "Themes",
-        "description": "Explore use cases such as end user exploratory analysis, contextual storytelling and more.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Themes/chiarts-feature-demo-image-thumbnail-2048x1161.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Themes/Themes.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Fetaures%20Demo/Themes/Themes.json"
-      }
-    ],
-    "Sample": [
-      {
-        "reportName": "Cluster Bar Chart",
-        "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/ClusterBarChart/Clustered%20bar%20chart.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/ClusterBarChart/ClusteredBarChart.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/ClusterBarChart/Cluster%20bar%20chart%20with%20variance.json"
-      },
-      {
-        "reportName": "Comparison Band",
-        "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/Comparison%20Band/Comparison%20Bands%20.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/Comparison%20Band/ComparisonBand.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/Comparison%20Band/Comparison%20band.json"
-      },
-      {
-        "reportName": "KPI Card Only",
-        "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20card%20only/KPI%20card%20only.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20card%20only/KPICardOnly.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20card%20only/KPI%20card%20only.json"
-      },
-      {
-        "reportName": "KPI dashboard",
-        "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20dashboard/KPI%20dashboard%20.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20dashboard/KPIDashboard.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/KPI%20dashboard/KPI%20dashboard.json"
-      },
-      {
-        "reportName": "Multiple Deviation",
-        "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/MultipleDeviation/Multiple%20Deviation.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/MultipleDeviation/MultipleDeviation.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/MultipleDeviation/Multiple%20deviation.json"
-      },
-      {
-        "reportName": "Slope Graph",
-        "description": "Use a combination of bar charts and KPI cards to visualize and evaluate the performance of brands and product categories.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/SlopeGraph/Slope%20graph.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/SlopeGraph/SlopeGraph.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/SlopeGraph/SlopeGraph.json"
-      },
-      {
-        "reportName": "Story Telling",
-        "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/StoryTelling/Story%20Telling%20.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/StoryTelling/StoryTelling.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Sample/StoryTelling/Story%20telling.json"
-      }
-    ],
-    "Story Telling Sample": [
-      {
-        "reportName": "Conditionally Formatted Bars",
-        "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/ConditionallyFormattedBars/Conditionally%20Formatted%20bars.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/ConditionallyFormattedBars/ConditionallyFormated.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/ConditionallyFormattedBars/ConditionallyFormattedBars.json"
-      },
-      {
-        "reportName": "Sales Uptrend",
-        "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/SalesUptrend/SalesUptrend.json"
-      },
-      {
-        "reportName": "Surplus & Depict",
-        "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/Surplus%26Depict/Surplus%20.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/Surplus%26Depict/Surplus%26Depict.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/Surplus%26Depict/Surplus%26depict.json"
-      },
-      {
-        "reportName": "World Food Price",
-        "description": "Tell compelling stories in Power BI using features such as dynamic data-level comments.",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/WorldFoodPrice/Charts-demo-2048x1160.jpg",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/WorldFoodPrice/WorldFoodPrice.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/StoryTellingSample/WorldFoodPrice/WorldFoodPrice.json"
-      }
-    ],
-    "Waterfall Charts": [
-      {
-        "reportName": "Cash Flow Analysis",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/cash%20flow.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/CashFlowAnalysis.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/Cash%20Flow%20analysis.json"
-      },
-      {
-        "reportName": "Customer Churn",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/Customer%20Churn.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/CustomerChurn.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/Customer%20Churn.json"
-      },
-      {
-        "reportName": "Income Statement",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/income%20statement.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/IncomeStatemnet.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/Income%20statement.json"
-      },
-      {
-        "reportName": "Measure Based Trellis",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Measured%20Based%20Trellis/Measure%20based%20trellis.png",
-        "csvURL":"",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Measured%20Based%20Trellis/Measure%20Based%20trellis.json"
-      },
-      {
-        "reportName": "Population Growth ",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/PopulationGrowth/Population%20growth.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/PopulationGrowth/PopulationGrowth.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/PopulationGrowth/Population%20growth.json"
-      },
-      {
-        "reportName": "Revenue",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Revenue/Revenue.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Revenue/Revenue.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Revenue/Revenue.json"
-      },
-      {
-        "reportName": "Sales Contribution",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Sales%20Contribution/Sales%20Contribution.png",
-        "csvURL":"https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Sales%20Contribution/SalesContribution.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Sales%20Contribution/Sales%20Contribution%20.json"
-      }
-    ]
-  }
+  "sections": ["Financials", "Variance", "Others"],
+  "Financials": [
+    {
+      "reportName": "Walmart Balance Sheets",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart_BS/Walmart_BS_config.json"
+    },
+    {
+      "reportName": "Walmart Cash Flow",
+      "description": "Employ features such as integrated inline, footer & column-based commenting and annotations.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/walmart.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/walmart%20finance/Walmart%20CF/Walmart_CF_config.json"
+    },
+    {
+      "reportName": "Nike Balance Sheet",
+      "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-balance%20sheet.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Balance%20sheet/Nike-Balance%20sheet.json"
+    },
+    {
+      "reportName": "Nike cash flow",
+      "description": "Explore the flexibility and power of spreadsheet-like features, functions and a familiar user interface.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/inforiver-nike-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Nike/Nike%20Cash%20Flow/Nike-cash%20flow%20.json"
+    },
+    {
+      "reportName": "Apple Balance sheet",
+      "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balancesheet.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Balance%20sheet/Apple-Balance%20sheet.json"
+    },
+    {
+      "reportName": "Apple Cash flow",
+      "description": "Export formatted financial reports with customizable headers and footers; set indentation for account names, apply borders and more.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/inforiver-apple-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Financial/Apple/Apple%20Cash%20flow/Apple-cash%20flow.json"
+    }
+  ],
+  "Variance": [
+    {
+      "reportName": "Regional profitability analysis",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitablityanalysis.json"
+    },
+    {
+      "reportName": "Regional profitability analysis T02",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/inforiver-ibcs-t01-t02-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/reginalprofitabilityT02.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Reginal%20profitability%20T02/RegionalprofitabilityT02.json"
+    },
+    {
+      "reportName": "Comparitive P&L T03",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Regional%20profitability%20analysis/regionalprofitabilityanalysis.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparativeP%26L%20T03.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Comparitive%20P%26L%20T03/ComparitiveP%26L%20T03.json"
+    },
+    {
+      "reportName": "Variance P&L T03",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/inforiver-ibcs-t03-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26L%20T03/Variance%20P%26L%20T03.json"
+    },
+    {
+      "reportName": "Variance P&L T04",
+      "description": "Perform region-wise profitability analysis by comparing actuals with plan and forecast across different time periods.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/inforiver-ibcs-t04-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04%20.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Variance/Variance%20P%26l%20T04/Variance%20P%26L%20T04.json"
+    }
+  ],
+  "Others": [
+    {
+      "reportName": "Demo Forbes 40 yrs",
+      "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/inforiver-demo-forbes-billionaires-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%2040%20yrs/Demo%20forbes%2040%20yrs.json"
+    },
+    {
+      "reportName": "Demo Forbes Overall",
+      "description": "An analysis of the Forbes billionaires using cell level bar charts, pins and extensive formatting options.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/inforiver-demo-forbes-billionaires-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20forbes%20Overall/Demo%20forbes%20Overall.json"
+    },
+    {
+      "reportName": "Demo sales & profit Trend",
+      "description": "Create impressive dashboards using Inforiver's wide array of charts and functionalities without the need for other visuals.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/inforiver-demo-forbes-billionaires-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20Profit%20Trend.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Demo%20sales%20%26%20Profit%20trend/Demo%20sales%20%26%20profit%20trend.json"
+    },
+    {
+      "reportName": "Olympics Top 10 teams",
+      "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/inforiver-olympics-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20top%2010%20teams%20.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%2010%20teams/Olympics%20Top%2010%20teams.json"
+    },
+    {
+      "reportName": "Olympics Top Athletes",
+      "description": "Analysis of 120 years of Olympics history using features like top n + others, segmentation and sparklines.",
+      "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/inforiver-olympics-demo-image.png",
+      "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20Top%20athletes.csv",
+      "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Other/Olympics%20top%20Athletes/Olympics%20top%20Athletes.json"
+    }
+  ]
 }
