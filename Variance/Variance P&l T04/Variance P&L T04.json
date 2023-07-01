@@ -1424,5 +1424,8 @@
     },
     "columns": [],
     "rows": [{ "id": "T04.Account Level 2", "label": "Account Level 2" }]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

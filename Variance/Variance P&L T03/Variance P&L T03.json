@@ -1380,5 +1380,8 @@
     },
     "columns": [],
     "rows": [{ "id": "T03_B_C.Account Level 2", "label": "Account Level 2" }]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

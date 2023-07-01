@@ -1423,5 +1423,8 @@
         "label": "Hypothetical change in 2020 assumption"
       }
     ]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

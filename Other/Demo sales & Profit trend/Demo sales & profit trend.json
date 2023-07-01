@@ -1563,5 +1563,8 @@
       { "id": "Superstore.Region", "label": "Region" },
       { "id": "Superstore.State", "label": "State" }
     ]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

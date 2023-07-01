@@ -5334,5 +5334,8 @@
     },
     "columns": [{ "id": "Yearly Trend.Fiscal_Year", "label": "Fiscal_Year" }],
     "rows": [{ "id": "Yearly Trend.FSLI", "label": "FSLI" }]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

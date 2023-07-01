@@ -1398,5 +1398,8 @@
     },
     "columns": [{ "id": "T03_A.Year", "label": "Year" }],
     "rows": [{ "id": "T03_A.Account Level 2", "label": "Account Level 2" }]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

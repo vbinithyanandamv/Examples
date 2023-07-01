@@ -23,15 +23,11 @@
     "compareHeader": {
       "left": {
         "label": "",
-        "values": [
-          "November"
-        ]
+        "values": ["November"]
       },
       "right": {
         "label": "",
-        "values": [
-          "Grand__Total"
-        ]
+        "values": ["Grand__Total"]
       }
     },
     "tableState": {
@@ -358,13 +354,7 @@
           "colorScheme": {
             "selectedColorScheme": "Blues",
             "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
+            "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"],
             "minColor": "red",
             "middleColor": "blue",
             "maxColor": "green"
@@ -381,11 +371,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -469,13 +455,7 @@
           "colorScheme": {
             "selectedColorScheme": "Blues",
             "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
+            "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"],
             "minColor": "red",
             "middleColor": "blue",
             "maxColor": "green"
@@ -492,11 +472,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -580,13 +556,7 @@
           "colorScheme": {
             "selectedColorScheme": "Blues",
             "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
+            "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"],
             "minColor": "red",
             "middleColor": "blue",
             "maxColor": "green"
@@ -603,11 +573,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -683,13 +649,7 @@
           "colorScheme": {
             "selectedColorScheme": "Blues",
             "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
+            "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"],
             "minColor": "red",
             "middleColor": "blue",
             "maxColor": "green"
@@ -706,11 +666,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -794,13 +750,7 @@
           "colorScheme": {
             "selectedColorScheme": "Blues",
             "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
+            "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"],
             "minColor": "red",
             "middleColor": "blue",
             "maxColor": "green"
@@ -817,11 +767,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -897,13 +843,7 @@
           "colorScheme": {
             "selectedColorScheme": "Blues",
             "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
+            "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"],
             "minColor": "red",
             "middleColor": "blue",
             "maxColor": "green"
@@ -920,11 +860,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -1301,10 +1237,7 @@
       },
       "activeSummaryGroup": null
     },
-    "recentColors": [
-      "#377D22",
-      "#A60000"
-    ],
+    "recentColors": ["#377D22", "#A60000"],
     "frequentColors": [],
     "formatConfig": {
       "row": {},
@@ -1631,9 +1564,7 @@
         "datasetTableName": "",
         "datasetKeyColumnName": "",
         "renamedWBIdColumn": "",
-        "mappingColumns": [
-          null
-        ]
+        "mappingColumns": [null]
       },
       "columnMappingError": null,
       "openAdditionColumnModal": false,
@@ -1667,13 +1598,8 @@
     "calculatedColHier": []
   },
   "csvOptions": {
-    "rows": [
-      "T01_T02.Region",
-      "T01_T02.Country"
-    ],
-    "columns": [
-      "T01_T02.Month"
-    ],
+    "rows": ["T01_T02.Region", "T01_T02.Country"],
+    "columns": ["T01_T02.Month"],
     "rolesMap": {},
     "typesMap": {},
     "labelMap": {
@@ -1684,15 +1610,9 @@
       "Sum(T01_T02.PL in Millions)": "PL",
       "Sum(T01_T02.AC In  millions)": "AC"
     },
-    "ac_roles": [
-      "Sum(T01_T02.AC In  millions)"
-    ],
-    "pl_roles": [
-      "Sum(T01_T02.PL in Millions)"
-    ],
-    "py_roles": [
-      "Sum(T01_T02.PY in millions)"
-    ],
+    "ac_roles": ["Sum(T01_T02.AC In  millions)"],
+    "pl_roles": ["Sum(T01_T02.PL in Millions)"],
+    "py_roles": ["Sum(T01_T02.PY in millions)"],
     "fc_roles": [],
     "om_roles": []
   },
@@ -1736,5 +1656,8 @@
         "label": "Country"
       }
     ]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

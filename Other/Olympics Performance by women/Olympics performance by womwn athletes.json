@@ -2387,5 +2387,8 @@
     },
     "columns": [{ "id": "athlete_events.Year", "label": "Year" }],
     "rows": [{ "id": "athlete_events.Team", "label": "Team" }]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

@@ -1576,5 +1576,8 @@
     },
     "columns": [{ "id": "Cleansed.Level ", "label": "Level " }],
     "rows": [{ "id": "Cleansed.GEO (Labels)", "label": "GEO (Labels)" }]
+  },
+  "webOptions": {
+    "visualType": "matrix"
   }
 }

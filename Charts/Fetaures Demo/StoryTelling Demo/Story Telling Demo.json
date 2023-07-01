@@ -4879,6 +4879,8 @@
     "others": []
   },
   "apiVersion": "2.9.0.0",
-  "timeStamp": 1687881624434
+  "timeStamp": 1687881624434,
+  "webOptions": {
+    "visualType": "charts"
+  }
 }
- 

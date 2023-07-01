@@ -3643,5 +3643,8 @@
     ]
   },
   "apiVersion": "2.9.0.0",
-  "timeStamp": 1687858663724
+  "timeStamp": 1687858663724,
+  "webOptions": {
+    "visualType": "charts"
+  }
 }
