@@ -292,34 +292,6 @@
     ],
     "Waterfall Charts": [
       {
-        "reportName": "Cash Flow Analysis",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/cash%20flow.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/CashFlowAnalysis.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Cash%20Flow%20analysis/Cash%20Flow%20analysis.json"
-      },
-      {
-        "reportName": "Customer Churn",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/Customer%20Churn.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/CustomerChurn.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Customer%20churn/Customer%20Churn.json"
-      },
-      {
-        "reportName": "Income Statement",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/income%20statement.png",
-        "csvURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/IncomeStatemnet.csv",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Income%20Statement/Income%20statement.json"
-      },
-      {
-        "reportName": "Measure Based Trellis",
-        "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
-        "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Measured%20Based%20Trellis/Measure%20based%20trellis.png",
-        "csvURL": "",
-        "jsonURL": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/Measured%20Based%20Trellis/Measure%20Based%20trellis.json"
-      },
-      {
         "reportName": "Population Growth ",
         "description": "Visualize performance analysis with time intelligence, conditionally formatted matrix and KPI's",
         "image": "https://raw.githubusercontent.com/vbinithyanandamv/Examples/main/Charts/Waterfall%20charts/PopulationGrowth/Population%20growth.png",
